@@ -1,0 +1,500 @@
+author_init,doi,keywords,scorings
+a5063079937,10.1002/cnm.2595,"['Fluid–structure interaction', 'Coherent Structures', 'Cardiac cycle']","[0.62268925, 0.483563, 0.48341334]"
+a5063079937,10.1016/j.jmbbm.2017.01.003,"['Lipiodol', 'Embolization', 'GLUE', 'Penetration (warfare)']","[0.7177711, 0.54162, 0.5057626, 0.43282855]"
+a5063079937,10.1007/s00396-016-3885-8,"['Microfluidics', 'Capsule', 'Microcirculation', 'Membrane emulsification']","[0.549703, 0.5202521, 0.514054, 0.4593994]"
+a5063079937,10.1016/j.jmbbm.2015.09.008,"['Capsule', 'Microcirculation', 'Transient (computer programming)']","[0.51329726, 0.499061, 0.49849153]"
+a5063079937,10.1017/jfm.2021.571,"['Microchannel', 'Microcirculation', 'Molecular Modeling', 'Microfluidic Rheometry', 'Multi-Phase Flows']","[0.5784049, 0.543287, 0.508345, 0.50701, 0.505585]"
+a5075692514,10.1002/bit.23104,"['Biochip', 'Microfluidics', 'Microfluidic Devices', 'Nanofluidic Devices', 'Single-Cell Analysis', 'Lab-on-a-Chip']","[0.9741083, 0.533397, 0.520252, 0.50787, 0.505459, 0.50183]"
+a5075692514,10.1021/ac2011075,"['Microfluidics', 'Metabolomics', 'Microfluidic Devices', 'Pharmacometabolomics', 'Continuous Flow Chemistry']","[0.554642, 0.552467, 0.534223, 0.526998, 0.51379]"
+a5075692514,10.1002/bit.24707,"['Nephrotoxicity', 'Active metabolite', 'Acrolein', 'Biochip', 'Organ-on-a-Chip']","[0.8054516, 0.5302902, 0.52981484, 0.50525695, 0.480273]"
+a5075692514,10.1093/toxsci/kfs230,"['Biochip', 'Flutamide', 'Metabolomics', 'Pharmacometabolomics', 'Human Metabolome Database', 'Organ-on-a-Chip', 'Microfluidics', 'Microfluidic chip', 'Active metabolite']","[0.75438154, 0.6941055, 0.598112, 0.596032, 0.551953, 0.527822, 0.515752, 0.4921886, 0.49008286]"
+a5075692514,10.1002/bit.25232,"['ADME', 'Drug Metabolism']","[0.85380685, 0.494591]"
+a5075692514,10.1016/j.taap.2011.12.017,"['Acetaminophen', 'Toxicogenomics', 'Lysophosphatidylethanolamine', 'Organ-on-a-Chip', 'Pharmacometabolomics', 'Biochip']","[0.7074783, 0.59997416, 0.54664004, 0.511019, 0.503016, 0.42540964]"
+a5075692514,10.1016/j.ijpharm.2011.01.054,"['Biochip', 'Xenobiotic Metabolism', 'Drug Metabolism', 'Pharmaceutical technology']","[0.72751075, 0.520224, 0.503828, 0.4127664]"
+a5075692514,10.1002/jps.23466,"['Xenobiotic Metabolism', 'Cell Culture', 'Single-Cell Analysis']","[0.537992, 0.506618, 0.503161]"
+a5075692514,10.1016/j.bej.2020.107783,"['PDX1', 'GLUT2', 'Organ-on-a-Chip', 'Lab-on-a-Chip', 'Pancreas Development', 'Pancreatic islets']","[0.74606514, 0.6272703, 0.568826, 0.546015, 0.52816, 0.42573255]"
+a5059667793,10.1080/10255842.2013.867952,"['Dynamic Time Warping', 'Normalization (sociology)']","[0.489954, 0.43083805]"
+a5059667793,10.1016/j.csda.2009.08.003,"['Musculoskeletal Modeling', 'Surface EMG', 'SIGNAL (programming language)', 'Sensor fusion']","[0.54199, 0.504524, 0.5006883, 0.45441163]"
+a5059667793,10.1080/10255842.2015.1070578,"['Functional electrical stimulation', 'Motor unit', 'Musculoskeletal Modeling', 'Neuroprosthetics', 'Sensory Feedback', 'Muscle Synergies', 'Motor unit recruitment']","[0.6836722, 0.6431325, 0.614495, 0.51180404, 0.508307, 0.508114, 0.44968337]"
+a5059667793,10.1016/j.compbiomed.2017.07.023,"['Dynamic time warping', 'Image warping', 'Complement (music)', 'Sensory Analysis', 'Formalism (music)', 'SIGNAL (programming language)']","[0.7525548, 0.590686, 0.56069124, 0.497973, 0.48204193, 0.42228895]"
+a5010298238,10.1353/jhi.2013.0012,['Text Analysis'],[0.454774]
+a5009962581,10.1002/ijc.20337,"['Topic Modeling', 'Textual Data', 'Knowledge Representation', 'Text Classification', 'Semantic Similarity', 'Multi-document summarization']","[0.598144, 0.55631, 0.549465, 0.547722, 0.539947, 0.43422794]"
+a5019206372,10.1126/science.7886454,"['Genetic linkage', 'Prostate Cancer', 'Genomic Profiling']","[0.6749721, 0.527035, 0.508492]"
+a5019206372,10.1093/hmg/ddv099,"['Cowden syndrome', 'Cancer']","[0.58637065, 0.508052]"
+a5019206372,10.1016/j.telpol.2008.02.005,"['Chromoplexy', 'Prostate Cancer', 'Candidate gene', 'Comparative genomic hybridization']","[0.54903007, 0.505058, 0.46887755, 0.45836267]"
+a5026117716,10.4000/rei.7177,"['Alpha (finance)', 'Gene Expression']","[0.48888415, 0.481276]"
+a5026117716,10.4000/rei.4047,['Insulin Signaling'],[0.515228]
+a5026117716,10.7202/1006725ar,"['Proteotoxicity', 'Kynurenine pathway', 'Homeostasis', 'Tryptophan Metabolism', 'Catabolism']","[0.8777722, 0.57256126, 0.5551797, 0.538518, 0.43757635]"
+a5026117716,10.4000/terminal.4472,"['Endophenotype', 'Modelling biological systems', 'Neuroimaging Data Analysis', 'Neurodegeneration', 'Brain Network Development', 'Translational research', 'Systems medicine', 'Drug development', 'Personalized medicine']","[0.62624025, 0.57817745, 0.535465, 0.524511, 0.512775, 0.49340406, 0.4630307, 0.42852554, 0.41628328]"
+a5026117716,10.3917/enic.hs03.0002,"['RNA polymerase II', 'Enhancer RNAs', 'Gene Expression Dysregulation', 'mRNA Decay', 'Chromatin immunoprecipitation', 'Transcription (linguistics)']","[0.5565481, 0.5490504, 0.529646, 0.519124, 0.49740747, 0.42489362]"
+a5026117716,10.7771/1481-4374.1793,"['Gene Expression Dysregulation', 'Huntingtin Protein']","[0.453489, 0.44337517]"
+a5026117716,10.4074/s0336150017011097,"['GATA4', 'Congenital Heart Defects', 'Heart septal defect']","[0.8075834, 0.522038, 0.45838872]"
+a5026117716,10.3917/rbnf.042.0013,"['Model organism', 'Functional genomics', 'Genomics']","[0.5904338, 0.4800735, 0.464126]"
+a5026117716,10.3917/lfa.200.0117,"['Neuromuscular transmission', 'Dystrophin']","[0.5625741, 0.557892]"
+a5045653236,10.1145/1413634.1413704,"['NOMINATE', 'Radical right', 'Opposition (politics)', 'Party Polarization', 'Salience (neuroscience)', 'Cleavage (geology)']","[0.8541672, 0.5795754, 0.57181144, 0.545597, 0.4184646, 0.41719264]"
+a5045653236,10.1186/gb-2012-13-9-r79,"['Investment (military)', 'Regulations']","[0.6955782, 0.492734]"
+a5045653236,10.1016/j.chom.2018.05.003,[],[]
+a5054128778,10.1093/ckj/sfaa099,['Digital Literature'],[0.505276]
+a5054128778,10.1016/j.yexcr.2009.03.003,['Digital Storytelling'],[0.504558]
+a5083701333,10.1016/j.cemconres.2007.09.013,['Obesity-associated Microbiome'],[0.559479]
+a5083701333,10.1186/s13054-019-2621-4,"['Faecalibacterium prausnitzii', 'Obesity-associated Microbiome', 'Microscopic Colitis', 'Fecal Microbiota Transplantation', 'Microbiome Diversity']","[0.9831853, 0.533068, 0.529325, 0.517976, 0.506496]"
+a5083701333,10.1084/jem.20020090,"['Faecalibacterium prausnitzii', 'Obesity-associated Microbiome']","[0.97748625, 0.474868]"
+a5083701333,10.1073/pnas.90.15.7024,"['Clinical endpoint', 'Fecal Microbiota Transplantation']","[0.783141, 0.664436]"
+a5043441322,10.1086/519237,"['Type 1 Diabetes', 'Diabetes', 'Pandemic']","[0.555587, 0.534983, 0.50955343]"
+a5043441322,10.1111/j.1365-2966.2010.16865.x,"['Augmented Renal Clearance', 'Pharmacodynamics', 'Drug Dosing', 'Regimen', 'Therapeutic drug monitoring']","[0.607935, 0.5402794, 0.509791, 0.44217092, 0.43050203]"
+a5043441322,10.1088/2041-8205/721/2/l163,"['Rifle', 'Acute Kidney Injury']","[0.75260043, 0.530617]"
+a5044456322,10.1086/427976,"['Regulatory T Cells', 'T Cell Activation', 'Memory T Cells', 'Treg cell']","[0.595947, 0.557701, 0.52401, 0.51427144]"
+a5044456322,10.1093/mnras/stt449,"['Mesenchymal Stem Cells', 'Graft-versus-Host Disease', 'Stem Cell Aging']","[0.593188, 0.552873, 0.528655]"
+a5044456322,10.1086/491724,"['Enterococcus hirae', 'Cancer immunotherapy', 'Tumor Antigen']","[0.586638, 0.52623886, 0.469483]"
+a5044456322,10.1103/physrevd.70.083511,"['Memory T Cells', 'T Cell Immunity', 'Tumor Immunity', 'CTLA-4', 'Regulatory T cell', 'Treg cell']","[0.535519, 0.523437, 0.516085, 0.4796853, 0.46095493, 0.44984883]"
+a5044456322,10.1086/425219,"['Immunosuppression', 'Regulatory T cell', 'T Cell Activation', 'Regulatory T Cells', 'Proinflammatory cytokine']","[0.6719294, 0.5407193, 0.520269, 0.518726, 0.4622258]"
+a5044456322,10.1103/physrevlett.112.251302,"['Arteritis', 'Takayasu Arteritis', ""Takayasu's arteritis""]","[0.63535166, 0.608932, 0.5013015]"
+a5072965626,10.1103/physrevd.92.083531,"['Astrophysical Simulations', 'Peculiar galaxy']","[0.490702, 0.448097]"
+a5072965626,10.1093/mnras/stv372,"['Billion years', 'Massive Stars', 'Solar mass']","[0.64849985, 0.510167, 0.42065817]"
+a5072965626,10.1093/mnras/stt523,"['Data set', 'Wide-Field Spectroscopy', 'William Herschel Telescope']","[0.5468547, 0.469349, 0.4527462]"
+a5072965626,10.1371/journal.pgen.1000344,"['Velocity dispersion', 'Initial mass function', 'Stellar population', 'Stellar mass', 'Multi-Object Spectroscopy']","[0.6594, 0.604385, 0.53867656, 0.516348, 0.464156]"
+a5072965626,10.1371/journal.pgen.1003493,"['Velocity dispersion', 'Star Formation', 'Astrophysical Simulations']","[0.51318985, 0.500214, 0.500175]"
+a5072965626,10.1093/mnras/stw1123,"['Einstein radius', 'Sloan Digital Sky Survey', 'Stellar population', 'Stellar mass']","[0.82993126, 0.529082, 0.52359116, 0.48451942]"
+a5072965626,10.1093/mnras/stab496,"['Gravitational Lensing', 'Submillimeter Array', 'High Angular Resolution', 'Adaptive Optics', 'Wavefront Sensing', 'South Pole Telescope']","[0.632056, 0.5599728, 0.516213, 0.513565, 0.501932, 0.43249428]"
+a5072965626,10.1046/j.1365-8711.2000.03582.x,"['Velocity dispersion', 'Stellar mass', 'Sloan Digital Sky Survey']","[0.8282663, 0.5928991, 0.520299]"
+a5072965626,10.1111/j.1365-2966.2011.18395.x,['Multi-Object Spectroscopy'],[0.460739]
+a5072965626,10.1111/j.1365-2966.2011.19640.x,"['Strong gravitational lensing', 'Gravitational lensing formalism', 'Cosmological Parameters', 'Cosmology']","[0.7177644, 0.57503295, 0.554141, 0.543854]"
+a5050309898,10.1093/mnras/stt680,"['Cold dark matter', 'Cosmological Parameters']","[0.7458936, 0.529246]"
+a5050309898,10.1088/1475-7516/2010/10/013,['Baryon Acoustic Oscillations'],[0.441422]
+a5022276793,10.1093/mnras/stx2099,"['Pathogenicity island', 'tRNA', 'RNA Structure', 'Intergenic region', 'Genomic island']","[0.72112817, 0.544983, 0.526784, 0.50937235, 0.41401058]"
+a5022276793,10.1111/j.1365-2966.2012.21160.x,"['Inflow', 'Astrophysical Simulations']","[0.45580578, 0.427016]"
+a5022276793,10.1093/mnras/stw2864,"['Stellar kinematics', 'Content (measure theory)', 'Monocular Depth Estimation']","[0.74276805, 0.59274185, 0.50672]"
+a5075521248,10.1103/physrevlett.119.245701,['Astrophysical Simulations'],[0.483994]
+a5075521248,10.1088/0953-8984/27/45/455104,['Magnetohydrodynamic Turbulence'],[0.480797]
+a5075521248,10.2138/am-2022-8008,"['Stellar mass', 'Young Stellar Objects']","[0.4540719, 0.451161]"
+a5048168479,10.1088/0953-8984/17/5/015,['Nanoribbons'],[0.545704]
+a5048168479,10.1103/physrevb.93.075105,"['Amorphous ice', 'Brine', 'Structural Analysis', 'Recrystallization (geology)']","[0.70289266, 0.47982407, 0.466939, 0.4369458]"
+a5008261497,10.1038/s41467-019-09039-7,['pH Sensing'],[0.459357]
+a5008261497,10.1053/j.gastro.2018.04.012,['Policy Change'],[0.442285]
+a5008261497,10.1002/sim.1912,"['Folding (DSP implementation)', 'Sequence (biology)', 'Critical point (mathematics)', 'Secondary Structure Prediction', 'Homology Modeling', 'Protein Synthesis', 'Proteins', 'Lattice protein']","[0.6208055, 0.5630788, 0.5449561, 0.524758, 0.516151, 0.504916, 0.504279, 0.4148206]"
+a5008261497,10.1002/hep.25599,[],[]
+a5006372418,10.1016/s2666-5247(23)00005-8,['Mineral Prospectivity'],[0.45776]
+a5006372418,10.1126/science.abc3517,['High-Resolution NMR'],[0.457217]
+a5006372418,10.1016/s0016-5085(03)00898-9,"['Metastability', 'Crystal Structure Prediction', 'Crystal (programming language)']","[0.8095046, 0.496994, 0.42500198]"
+a5032837587,10.1056/nejmoa1007302,"['Dephasing', 'Energy Transfer', 'Hamiltonian (control theory)']","[0.65235496, 0.524531, 0.43610483]"
+a5032837587,10.3201/eid1707.110059,"['Photosynthetic Acclimation', 'Photocycle Dynamics']","[0.541099, 0.53815]"
+a5032837587,10.1093/mmy/myv008,"['DNA origami', 'DNA nanotechnology', 'Biological imaging']","[0.83817863, 0.562306, 0.44519243]"
+a5032837587,10.1016/j.ijfoodmicro.2011.02.033,['Quantum Coherence'],[0.563995]
+a5032837587,10.1093/infdis/jit195,['Coherent Manipulation'],[0.518679]
+a5082959305,10.1016/j.jhep.2011.02.018,"['Peginterferon alfa-2a', 'Hepatitis C', 'Interferon alfa', 'HIV Infection', 'Pegylated interferon']","[0.6202205, 0.5301954, 0.5199936, 0.500034, 0.42538935]"
+a5082959305,10.1016/j.jinf.2012.09.010,"['Treatment', 'Hepatitis C']","[0.505272, 0.49532047]"
+a5082959305,10.3917/musur.104.0033,"['Gold standard (test)', 'Liver Fibrosis', 'Liver Biopsy']","[0.6808803, 0.566436, 0.536771]"
+a5082959305,10.31751/i.50,"['Transient elastography', 'Liver Fibrosis', 'Liver Biopsy', 'Primary Biliary Cirrhosis', 'Non-invasive Assessment', 'Biliary cirrhosis']","[0.6001929, 0.536497, 0.523206, 0.511209, 0.508978, 0.4289413]"
+a5082959305,10.7202/1068385ar,"['HBV Infection', 'Hepatitis B', 'Viral hepatitis']","[0.541232, 0.53391606, 0.49835253]"
+a5082959305,10.1109/ieeeconf59510.2023.10335446,"['Lymphoproliferative disorders', 'Treatment', 'Antiviral treatment']","[0.5210447, 0.473165, 0.43395922]"
+a5082959305,10.5209/rev_esim.2009.v5.30062,"['Erdheim–Chester disease', 'Erdheim-Chester Disease', 'Therapy Intensification']","[0.9308424, 0.587794, 0.562876]"
+a5082959305,10.21437/interspeech.2011-534,['Viral Transmission'],[0.473231]
+a5000035181,10.3389/frai.2023.1142997,"['Pandemic', 'Herd immunity', '2019-20 coronavirus outbreak', 'Social Distancing', 'Isolation (microbiology)', 'Coronavirus']","[0.7437275, 0.70090324, 0.53863156, 0.505774, 0.49077138, 0.41028202]"
+a5000035181,10.1021/acs.est.7b01518,"['Liver Cirrhosis', 'Survival Rates', 'Liver disease']","[0.556945, 0.556222, 0.48777634]"
+a5000035181,10.1016/j.ejop.2016.02.003,"['Meconium Ileus', 'Genome-wide association study', 'Cystic Fibrosis', 'Apical membrane', 'Genetic association']","[0.9030215, 0.8473412, 0.440477, 0.42864585, 0.41468033]"
+a5008914363,10.1016/j.marpolbul.2015.08.022,"['Atopy', 'Asthma']","[0.82085097, 0.511538]"
+a5008914363,10.1086/bblv227n2p93,"['Cholera', 'Pandemic', 'Vibrio cholerae', 'Cholera toxin', 'El Tor']","[0.89217293, 0.7744455, 0.533926, 0.5101326, 0.46077794]"
+a5008914363,10.3354/aei00182,"['Identification (biology)', 'Mycology', 'DNA barcoding', 'Pathogen Diversity', 'Diagnosis', 'Biorepository']","[0.82880354, 0.6177212, 0.5820967, 0.513646, 0.506437, 0.44145548]"
+a5008914363,10.1016/j.dsr2.2014.07.018,"['Mobile phone', 'Epidemiology', 'Digital Epidemiology', 'Cholera', 'Preparedness']","[0.68662107, 0.509409, 0.501291, 0.47059095, 0.46739396]"
+a5008914363,10.48550/arxiv.2203.03022,"['Toxoplasmosis', 'Congenital toxoplasmosis', 'Diagnosis']","[0.65615386, 0.57427984, 0.507717]"
+a5008914363,10.48550/arxiv.2111.05011,"['Coronavirus', 'Pathogenic organism', 'Immunocompromised Patients', 'Immunocompetence', 'Pandemic', '2019-20 coronavirus outbreak']","[0.61682856, 0.44491544, 0.439521, 0.43322566, 0.42502832, 0.41900867]"
+a5008914363,10.5194/cp-12-1459-2016,"['Case fatality rate', 'Pandemic', 'Epidemiology', 'Cumulative incidence']","[0.5611718, 0.48709583, 0.482954, 0.44704157]"
+a5008914363,10.3390/app10010302,"['Terbinafine', 'Squalene monooxygenase', 'Dermatophytes']","[0.9814614, 0.76643246, 0.488548]"
+a5008914363,10.48550/arxiv.2301.12662,"['Meglumine antimoniate', 'Pentamidine', 'Meglumine', 'Leishmaniasis']","[0.89133054, 0.691511, 0.6670543, 0.518281]"
+a5008914363,10.5898/jhri.5.1.coninx,['Preimplantation Genetic Diagnosis'],[0.497833]
+a5012443434,10.1145/2851581.2856492,"['Musicology', 'Stylus']","[0.463376, 0.44886506]"
+a5086118723,10.1080/09298215.2011.643314,"['Gender', 'Public Policy']","[0.557524, 0.525906]"
+a5086118723,10.1016/j.patcog.2023.110108,['Arts'],[0.433508]
+a5042745853,10.1207/s15516709cog2001_1,"['Paralanguage', 'Acoustic space', 'Similarity (geometry)', 'Acoustic Modeling', 'Speaker Verification', 'Audio-Visual Speech Recognition', 'Automatic Speech Recognition', 'Acoustic Scene Classification', 'Voice analysis']","[0.82973343, 0.7486234, 0.7082774, 0.634313, 0.601736, 0.599894, 0.556967, 0.548273, 0.48418668]"
+a5042745853,10.3389/frobt.2020.00092,"['Identification (biology)', 'Vocal Learning', 'Environmental Sound Recognition', 'Audio Event Detection', 'Anthropogenic Noise', 'Avian Vocal Communication', 'Bioacoustics']","[0.62440825, 0.596801, 0.580662, 0.568222, 0.559961, 0.558686, 0.4780679]"
+a5085170922,10.1145/3136755.3136780,"['Environmental DNA Sequencing', 'Metabarcoding', 'Marine ecosystem', 'DNA Barcoding', 'Environmental DNA', 'Ecological Assessment', 'Replicate', 'Benthos', 'Biotic index', 'Taxonomic rank']","[0.632239, 0.60811, 0.5944262, 0.583268, 0.578155, 0.533362, 0.52360755, 0.44867468, 0.42185324, 0.42045087]"
+a5085170922,10.1007/11550617_20,"['Environmental DNA Sequencing', 'Environmental DNA', 'Metabarcoding', 'DNA Barcoding', 'Bioindicator', 'Biodiversity Monitoring', 'Protist']","[0.623652, 0.557106, 0.547392, 0.546967, 0.54142165, 0.540909, 0.45090523]"
+a5085170922,10.1145/2702123.2702391,"['Environmental DNA', 'Diatom Biomineralization', 'Next-Generation Sequencing', 'DNA Barcoding', 'Environmental Monitoring']","[0.605647, 0.584653, 0.536657, 0.507207, 0.503137]"
+a5085170922,10.1145/2858036.2858375,"['Meiobenthos', 'Metabarcoding', 'Deep-Sea Ecology']","[0.6125555, 0.544499, 0.541427]"
+a5085170922,10.1145/3210586.3210603,"['Environmental DNA', 'Deep-Sea Ecology', 'Meiobenthos', 'Sediment Biodiversity', 'Benthos']","[0.572076, 0.568614, 0.556075, 0.527967, 0.44187573]"
+a5085170922,10.1145/3411764.3445497,"['Ancient DNA', 'Environmental DNA', 'Geologic record']","[0.91841954, 0.573477, 0.57086504]"
+a5085170922,10.1140/epjd/e2007-00306-3,"['Sound Synthesis', 'Environmental Sound Recognition', 'Acoustic Ecology', 'Macro']","[0.558419, 0.524831, 0.509569, 0.47359636]"
+a5085170922,10.1145/1385569.1385575,"['Benchmark (surveying)', 'Representation (politics)', 'Auditory Processing', 'Acoustic Modeling', 'Environmental Sound Recognition', 'End-to-End Speech Recognition', 'Audio Event Detection', 'Code (set theory)']","[0.76095927, 0.6369454, 0.56353, 0.557403, 0.555353, 0.532391, 0.531128, 0.45302033]"
+a5073978648,10.3389/frobt.2016.00037,"['Change Detection', 'Adaptive Algorithms']","[0.536587, 0.505863]"
+a5073978648,10.1109/biorob.2008.4762795,"['Classification of discontinuities', 'Grasping', 'Curiosity-Driven Exploration', 'Robot Learning', 'Sampling-Based Algorithms', '3D Object Recognition']","[0.5768437, 0.535894, 0.533919, 0.524712, 0.524375, 0.512922]"
+a5060825472,10.1609/aaai.v32i1.11939,"['Dynamic time warping', 'Gesture Recognition', 'Variation (astronomy)', 'Action Recognition', 'Human-Computer Interaction', 'Continuous Recognition', 'Motion Capture', 'Template']","[0.7845453, 0.680233, 0.6177701, 0.566742, 0.54664, 0.5455, 0.54102, 0.42711762]"
+a5060825472,10.1016/j.ipm.2016.05.002,"['Gesture Recognition', 'Sound Synthesis', 'Environmental Sound Recognition', 'Acoustic Ecology']","[0.552458, 0.542726, 0.505136, 0.501488]"
+a5005922530,10.1007/11552246_15,"['Dyad', 'Interpersonal Synchrony', 'Reciprocal', 'Affect (linguistics)', 'Reciprocity (cultural anthropology)', 'Child development']","[0.88564026, 0.639157, 0.58190435, 0.57061505, 0.53264165, 0.46076727]"
+a5005922530,10.1145/3290605.3300813,"['Bounding overwatch', 'Pose Estimation', '3D Human Pose', 'Minimum bounding box', 'Multiple Object Tracking', 'Motion Detection', 'Object Tracking']","[0.7257352, 0.647768, 0.642435, 0.6275079, 0.559095, 0.547749, 0.521066]"
+a5005922530,10.1007/s11548-016-1399-y,"['Residual feed intake', 'Control line', 'Feed Efficiency']","[0.85253584, 0.7442663, 0.530942]"
+a5005922530,10.1109/toh.2024.3363422,"['Standard illuminant', 'Normalization (sociology)', 'Feature Matching', 'Multiple Object Tracking', 'Person Re-identification', 'Visual Tracking', 'Object Recognition']","[0.78630006, 0.61777097, 0.611471, 0.592565, 0.578934, 0.576504, 0.562156]"
+a5019033794,10.1016/b978-0-444-62604-2.00022-8,"['Usability', 'Tangible User Interfaces', 'User Experience', 'Task Analysis', 'Interaction Design']","[0.577314, 0.553516, 0.533327, 0.532466, 0.518107]"
+a5019033794,10.1177/105971230501300205,"['Finesse', 'Magnetic Field Amplification', 'Transverse field']","[0.8329127, 0.487869, 0.41730672]"
+a5019033794,10.1371/journal.pbio.2004015,"['Visual search', 'Gaze Estimation', 'Eye Movement Analysis', 'Remote Gaze Estimation', 'Gesture Recognition', 'Parametrization (atmospheric modeling)', 'Eye Tracking', 'Position (finance)', 'Tracking (education)']","[0.66320837, 0.584636, 0.558375, 0.530702, 0.52604, 0.5104057, 0.505974, 0.48932618, 0.458926]"
+a5019033794,10.1109/t-affc.2012.12,"['Usability Research', 'Technology Acceptance Model', 'Eye Movement Analysis', 'Perceived Ease of Use', 'Human-Computer Interaction']","[0.544999, 0.543431, 0.529785, 0.510215, 0.502604]"
+a5084974660,10.1109/taffc.2016.2631594,"['Interventional neuroradiology', 'Neuroradiology', 'Metamagnetic Shape Memory Alloys', 'Ferromagnetic Shape Memory Alloys']","[0.6629529, 0.6080805, 0.530134, 0.503032]"
+a5084974660,10.1109/tro.2011.2178151,"['Workstation Ergonomics', 'Operating Room Performance', 'Posture Analysis', 'Human Motion Simulation', 'Robotic Surgery']","[0.570253, 0.557948, 0.522472, 0.509382, 0.508777]"
+a5084974660,10.3389/fnhum.2014.00947,"['Surgical instrument', 'Operating Room Performance', 'Sensory cue', 'Trainer']","[0.65252364, 0.500952, 0.47844127, 0.4231405]"
+a5084974660,10.3389/fnbot.2018.00001,"['Ground truth', 'Ureteroscopy', 'Laser lithotripsy', 'Spectral Imaging', 'URETEROSCOPE']","[0.5812321, 0.5693109, 0.5303194, 0.469211, 0.42009163]"
+a5000942708,10.1152/jn.00576.2018,"['Leverage (statistics)', 'Word Representation', 'Topic Modeling', 'Language Modeling', 'Software Defect Prediction', 'Neural Machine Translation', 'Natural language generation', 'Benchmark (surveying)', 'Dependency grammar']","[0.54910064, 0.532155, 0.518435, 0.5086, 0.504846, 0.503758, 0.48977852, 0.45385653, 0.4421486]"
+a5024969402,10.1007/978-3-031-42626-1_4,"['Tracking (education)', 'Visual Odometry', 'Deformable Image Registration', 'Medical Image Analysis']","[0.5620967, 0.51475, 0.506498, 0.506455]"
+a5016381589,10.1109/jstars.2020.3001830,"['Sleep', 'Neurons', 'Memory', 'Learning', 'Neurotransmission']","[0.546203, 0.514614, 0.514455, 0.512945, 0.502442]"
+a5016381589,10.1109/icpr.2010.355,"['Dorsal raphe nucleus', 'Memory', 'Reward system']","[0.7483449, 0.49347, 0.44501436]"
+a5016381589,10.1109/icassp.2016.7472117,"['Spike train', 'Neural Synchrony', 'Neural Activity', 'Working Memory', 'Coherence Resonance']","[0.576287, 0.526963, 0.523565, 0.513677, 0.500611]"
+a5016381589,10.1109/radarconf2043947.2020.9266689,"['Reward Circuitry', 'Fear Conditioning', 'Behavioral Models', 'Sensory Processing']","[0.54286, 0.540202, 0.518979, 0.503637]"
+a5016381589,10.5220/0002842901180123,['Navigation'],[0.504043]
+a5016381589,10.1007/978-3-030-26980-7_78,"['Reward Processing', 'Heuristics', 'Prefrontal Cortex', 'Decision-making', 'Cortical Control', 'Sensory Processing', 'Neurophysiology']","[0.55272, 0.54754555, 0.537345, 0.523506, 0.520023, 0.50866, 0.47291264]"
+a5016381589,10.1109/igarss46834.2022.9883253,"['Working Memory', 'Decision-making', 'Memory', 'Reward Processing']","[0.558201, 0.533727, 0.5083, 0.50256]"
+a5049398785,10.1145/3569096,"['Affect (linguistics)', 'Contingency', 'Language Development', 'Child-Directed Speech', 'Child development']","[0.7202587, 0.5385775, 0.530177, 0.502839, 0.41956156]"
+a5049398785,10.1109/humanoids.2013.7030008,"['iCub', 'Human-Robot Collaboration', 'Human Perception of Robots', 'Human-Robot Interaction', 'Safe Human-Robot Interaction', 'Robot Companionship', 'Human–robot interaction', 'Social robot', 'Social intelligence']","[0.76724565, 0.625853, 0.609737, 0.604885, 0.57196, 0.552193, 0.51311666, 0.48239055, 0.46937823]"
+a5049398785,10.1016/j.biochi.2006.09.001,"['Emotion Recognition', 'Feature Extraction', 'Signal Decomposition', 'Affective Computing', 'Deep Learning for EEG', 'Feature (linguistics)', 'SIGNAL (programming language)']","[0.621289, 0.555925, 0.552374, 0.532161, 0.511311, 0.44909084, 0.4396017]"
+a5049398785,10.1016/0198-0149(92)90053-v,"['Interpersonal Synchrony', 'Infant Understanding', 'Emotion Recognition', 'Cultural Learning', 'Human–robot interaction', 'Social learning', 'Social robot']","[0.54015, 0.506591, 0.503278, 0.501045, 0.48570713, 0.48321497, 0.46594608]"
+a5049398785,10.1016/s0021-9673(00)88991-8,"['Biometrics', 'Multimodal Biometrics', 'Usability', 'Biometric Recognition', 'Security']","[0.638662, 0.556961, 0.534742, 0.528282, 0.504573]"
+a5057665161,10.1016/j.jmarsys.2014.05.019,['Prosthetic Control'],[0.625619]
+a5057665161,10.1177/0278364906061158,"['Upper Limb Function', 'Prehensile tail', 'Stroke Recovery', 'Motor learning', 'Disconnection']","[0.626347, 0.56954193, 0.525146, 0.5004015, 0.42028403]"
+a5057665161,10.1023/b:auro.0000008671.38949.43,"['Judgement', 'Representation (politics)', 'Prosthetic Control', 'Upper Limb Function']","[0.7998339, 0.550681, 0.50645, 0.501581]"
+a5057665161,10.1609/aiide.v7i1.12429,"['Prosthetic Control', 'Prosthetics', 'Workspace', 'Lower Limb']","[0.631041, 0.545512, 0.52637774, 0.509294]"
+a5008211251,10.1016/j.robot.2004.03.012,"['Evolutionary Algorithms', 'Modular Robots', 'Robotics', 'Machine Learning', 'Deep Learning']","[0.823832, 0.76177, 0.755376, 0.685997, 0.668729]"
+a5008211251,10.1109/tsmcb.2012.2214477,"['Bistability', 'Biochemical Modeling', 'Bursting']","[0.80679286, 0.535042, 0.4130327]"
+a5008211251,10.1016/j.robot.2004.10.002,"['Nature-Inspired Algorithms', 'Differential Evolution', 'Constraint Handling', 'Autonomous agent']","[0.555939, 0.521917, 0.501968, 0.47289765]"
+a5008211251,10.1007/978-0-85729-085-4_54,"['Robotics', 'Simulation to Real-world Transfer', 'Robot Navigation', 'Line (geometry)']","[0.527683, 0.521756, 0.51316, 0.46494]"
+a5018812634,10.1016/j.str.2018.04.006,"['Knowledge Graph Embedding', 'Network Embedding', 'Signal Processing on Graphs', 'Code (set theory)']","[0.577494, 0.562051, 0.559606, 0.42700678]"
+a5018812634,10.1093/molbev/msac070,"['Basis (linear algebra)', 'Offline learning', 'Stabilized Methods', 'PDE-Constrained Optimization', 'Model Reduction', 'Online and offline']","[0.7759439, 0.5600031, 0.542183, 0.529452, 0.5293, 0.5255365]"
+a5042850624,10.1073/pnas.1111471108,"['Reinforcement Learning', 'CMA-ES', 'Matrix (chemical analysis)']","[0.524303, 0.51959157, 0.4693167]"
+a5042850624,10.1093/molbev/msy007,"['Code (set theory)', 'Reinforcement Learning', 'Symbolic Regression', 'Statistical power', 'Statistical analysis', 'Statistical learning']","[0.5721549, 0.539512, 0.512448, 0.4825408, 0.45460078, 0.43769535]"
+a5042850624,10.1093/nar/gkv932,"['Anticipation (artificial intelligence)', 'Stochastic game', 'Adaptive learning', 'Reinforcement Learning', 'Adaptive strategies']","[0.5984506, 0.51369727, 0.50066423, 0.495174, 0.4287152]"
+a5020385150,10.1051/0004-6361/202348329,"['Drifter', 'Eddy', 'Tidal Analysis', 'Frontogenesis', 'Mixed layer', 'Anticyclone', 'Sill']","[0.70204234, 0.6647809, 0.527238, 0.52391016, 0.49773458, 0.46151802, 0.43044823]"
+a5020385150,10.1093/mnras/sts021,"['Position (finance)', 'Sliding Mode Control', 'Formalism (music)', 'Adaptive Control']","[0.6007962, 0.556203, 0.54502845, 0.51579]"
+a5053141872,10.1051/0004-6361/201322101,"['Skyrmion', 'Leverage (statistics)', 'Stochastic computing', 'Uncorrelated', 'Brain-inspired Computing']","[0.9919765, 0.6260402, 0.55750585, 0.5499765, 0.518609]"
+a5053141872,10.1051/0004-6361/201832611,"['Real-Time Strategy Games', 'Player Modeling', 'General Game Playing', 'Behavior Trees', 'Computational Creativity']","[0.594141, 0.5653, 0.551676, 0.517097, 0.50003]"
+a5053141872,10.1088/1538-3873/ac604c,['Spoken Dialogue Systems'],[0.532656]
+a5053141872,10.1051/0004-6361/202039756,"['Real-Time Strategy Games', 'Player Modeling', 'Reinforcement Learning', 'Simulation to Real-world Transfer']","[0.577644, 0.521186, 0.507942, 0.502731]"
+a5053141872,10.1051/aas:1996164,"['Abstraction', 'Real-Time Strategy Games', 'Player Modeling', 'Modeling and Simulation']","[0.7068157, 0.578246, 0.533075, 0.516014]"
+a5016542830,10.3847/1538-4365/aae9f0,"['Teleoperation', 'Haptic Interfaces', 'Tactile Perception', 'Human-Machine Collaboration', 'Adaptive Control', 'Interface (matter)']","[0.8810413, 0.589501, 0.549231, 0.533051, 0.510791, 0.48663983]"
+a5016542830,10.1088/0004-637x/813/2/109,"['Synchronization', 'Representation (politics)', 'Tracking (education)', 'Hough transform']","[0.510401, 0.4858148, 0.4743596, 0.46113575]"
+a5016542830,10.1007/s10909-016-1575-z,"['Tweezers', 'Optical Tweezers', 'Magnetic tweezers', 'Optical force', 'Plasmonic Nano-optical Tweezers', 'Optical Manipulation', 'Optomechanics', 'Force spectroscopy']","[0.6837703, 0.662923, 0.613151, 0.594265, 0.564619, 0.53405, 0.5234023, 0.49447727]"
+a5016542830,10.3847/1538-4357/834/2/110,"['Neuromorphic engineering', 'Neuromorphic Computing', 'Visual Servoing', 'Temporal Noise Analysis', 'Brain-inspired Computing', 'Optical Flow', 'ENCODE', 'Tracking (education)']","[0.6927613, 0.557306, 0.527719, 0.52627, 0.50405, 0.501759, 0.48294204, 0.41696173]"
+a5003629424,10.1007/978-3-662-65093-6_300711,"['Evolutionary robotics', 'Multi-Objective Optimization', 'Nature-Inspired Algorithms', 'Differential Evolution', 'Particle Swarm Optimization', 'Reinforcement Learning']","[0.5625983, 0.559674, 0.540038, 0.53893, 0.520214, 0.517821]"
+a5003629424,10.1007/978-3-662-65093-6_300668,"['Flapping', 'Flight Dynamics', 'Adaptive Evolution', 'Flapping Wing', 'Wingspan', 'Wing loading', 'Aircraft flight mechanics']","[0.86856276, 0.596087, 0.534164, 0.517271, 0.4590411, 0.4400822, 0.41998476]"
+a5038174177,10.1051/0004-6361/201423727,"['Phytochrome', 'Phaeodactylum tricornutum', 'Far-red', 'Biliverdin', 'Thalassiosira pseudonana', 'Phytochromes', 'Photoreceptors', 'Absorbance', 'Tetrapyrrole']","[0.9352946, 0.8910522, 0.77178955, 0.70264107, 0.6616298, 0.545322, 0.518293, 0.49488848, 0.41903955]"
+a5038174177,10.1051/0004-6361/201220519,"['Facultative', 'GC-content', 'Codon Usage', 'genome annotation']","[0.80028844, 0.59237206, 0.57551, 0.54415]"
+a5038174177,10.1051/0004-6361/201526650,"['Enterocytozoon bieneusi', 'Giardia']","[0.9247626, 0.462742]"
+a5038174177,10.1093/mnras/stw409,"['Synteny', 'Breakpoint', 'phylogenetic tree', 'Gene Order Phylogeny', 'Genome Distance Estimation', 'Phylogenetic Analysis', 'Ancestral Genome Reconstruction', 'Tree (set theory)']","[0.9679957, 0.59163386, 0.570679, 0.557804, 0.557707, 0.553512, 0.54019, 0.43488595]"
+a5076453514,10.1051/0004-6361/202142475,['Receptor Tyrosine Kinase'],[0.484664]
+a5076453514,10.1016/j.pss.2012.08.004,"['Proteins', 'Root mean square']","[0.490154, 0.4479982]"
+a5035771024,10.1029/98je01323,"['Epistasis', 'Transmissibility (structural dynamics)', 'Coronavirus', 'Anticipation (artificial intelligence)', 'Epitope Prediction']","[0.54609734, 0.5369854, 0.5191197, 0.481086, 0.479051]"
+a5035771024,10.1126/science.233.4759.102,"['Graph Theory', 'Parameterized Complexity', 'Random Graphs', 'Scaling Limits', 'Graph coloring']","[0.520304, 0.519046, 0.507366, 0.500459, 0.4295607]"
+a5035771024,10.1051/0004-6361/201527178,"['Protein-Protein Interactions', 'Coevolution', 'Homology Modeling', 'Protein-Protein Interaction Networks', 'Protein family', 'Sequence (biology)']","[0.560243, 0.5599667, 0.542616, 0.525014, 0.50110054, 0.4535242]"
+a5035771024,10.1029/2005gl022647,"['Sequence (biology)', 'Generative model', 'Support Vector Machines']","[0.7104433, 0.5998027, 0.537387]"
+a5007007631,10.1136/rmdopen-2014-000014,"['Line (geometry)', 'Emissions']","[0.6304274, 0.475377]"
+a5089708177,10.1016/j.ejca.2021.02.015,"['Extractor', 'Signal Decomposition']","[0.6534211, 0.502063]"
+a5089708177,10.1038/s44184-023-00046-7,"['Cold dark matter', 'Sloan Digital Sky Survey']","[0.49641424, 0.437244]"
+a5089708177,10.1002/ijc.33928,"['Local Group', 'Sloan Digital Sky Survey', 'Satellite galaxy']","[0.48831746, 0.456518, 0.4183504]"
+a5089708177,10.1007/978-3-319-58068-5_21,"['Upgrade', 'Transition edge sensor', 'Transition-Edge Sensors']","[0.67420405, 0.6195068, 0.48564]"
+a5064812526,10.1007/s12652-015-0266-y,"['Stellar mass', 'Star Formation']","[0.6342392, 0.48872]"
+a5064812526,10.1007/978-3-662-46241-6_9,"['Sigma', 'Virial mass', 'Black hole (networking)', 'High-Mass Stars']","[0.7612978, 0.64281726, 0.52421343, 0.443862]"
+a5008102443,10.1109/embc.2013.6610847,[],[]
+a5008102443,10.1007/978-3-540-31987-0_3,"['Mean kinetic temperature', 'Ozone Depletion', 'Line (geometry)']","[0.5883878, 0.532201, 0.5132272]"
+a5008102443,10.1007/3-540-36377-7_5,"['Interstellar ice', 'Interstellar Medium', 'Cosmochemistry']","[0.5694767, 0.473918, 0.42448515]"
+a5061694871,10.48550/arxiv.2104.02466,"['Intracluster medium', 'Stellar kinematics', 'Very Large Telescope', 'Planetary Systems', 'Integral field spectrograph', 'Tully–Fisher relation']","[0.6888542, 0.5936709, 0.4629285, 0.454626, 0.43678063, 0.41758853]"
+a5061694871,10.1007/11603009_17,['Molecular Clouds'],[0.438074]
+a5061694871,10.1007/11562948_23,"['Dyslipidemia', 'Type 2 Diabetes', 'Diabetes', 'Cross-sectional study']","[0.6908936, 0.506179, 0.505697, 0.4703011]"
+a5032663932,10.1136/emj.2003.013979,"['Lagrangian point', 'Halo orbit', 'Outgassing', 'Planetary Exploration']","[0.5676426, 0.46494594, 0.41732043, 0.401754]"
+a5032663932,10.1109/bibe.2013.6701670,"['Substorm', 'Magnetosphere of Saturn', 'Plasmoid', 'Planetary Chronology']","[0.91423696, 0.8212203, 0.64241254, 0.489389]"
+a5074319502,10.1016/j.ejro.2024.100595,"['Jupiter (rocket family)', 'Hot Jupiter', 'Space Environment Modeling']","[0.58968246, 0.4854789, 0.47656]"
+a5074319502,10.1016/j.tcs.2005.03.007,"['Jupiter (rocket family)', 'Magnetosphere of Jupiter', 'Magnetosphere of Saturn', 'Planetary science', 'Magnetosphere', 'Atmosphere of Jupiter']","[0.8073307, 0.78859603, 0.70433813, 0.5390396, 0.517642, 0.49542797]"
+a5074319502,10.1099/00221287-130-10-2589,"['LOFAR', 'Interferometric Imaging']","[0.9963264, 0.572498]"
+a5074319502,10.1007/978-3-642-03367-4_44,"['Uranus', 'Lightning (connector)', 'Space Weather']","[0.9489382, 0.60846704, 0.503794]"
+a5005420349,10.1016/j.ejor.2009.12.004,"['Disease Integration', 'Controlled vocabulary', 'UniProt', 'Representation (politics)']","[0.500455, 0.4884576, 0.43014407, 0.41510907]"
+a5005420349,10.1016/j.ipl.2009.05.002,"['Central core disease', 'Kyphoscoliosis', 'Sensory Neurons', 'Compound heterozygosity']","[0.9691971, 0.7393546, 0.43467, 0.41962078]"
+a5005420349,10.1016/j.tcs.2014.11.028,"['Schema Matching', 'Phenotype Ontology']","[0.5194, 0.518488]"
+a5005420349,10.1007/s00453-017-0354-9,"['Transfusion Therapy', 'Red Cell']","[0.503525, 0.422786]"
+a5005420349,10.1007/978-3-030-29414-4_6,"['Semen Analysis', 'Testicular sperm extraction', 'Sperm DNA Fragmentation', 'Testicular Function']","[0.582825, 0.5643616, 0.529248, 0.517488]"
+a5005420349,10.1007/978-3-030-58112-1,"['Microcephaly', 'Fetal MRI', 'Cerebellar Malformations', 'Fetal DNA Analysis', 'Cerebral Development', 'Ventriculomegaly', 'Neural tube defect']","[0.6146353, 0.591888, 0.543221, 0.542587, 0.521801, 0.513374, 0.44019875]"
+a5055383240,10.48550/arxiv.quant-ph/9607014,"['Open Biomedical Ontologies', 'Ontology', 'Natural Language Processing', 'Biomedical Ontologies', 'Phenotype Ontology']","[0.5357866, 0.53459, 0.519717, 0.516718, 0.500508]"
+a5055383240,10.4230/lipics.stacs.2012.i,"['Ultrasound Diagnosis', 'Prenatal Diagnosis', 'Early Pregnancy']","[0.590797, 0.565996, 0.515345]"
+a5055383240,10.1007/978-3-540-27836-8_42,"['USable', 'Knowledge Representation', 'Knowledge Management', 'Natural Language Processing', 'Identification (biology)', 'Health records']","[0.65138865, 0.554711, 0.548697, 0.507345, 0.48253888, 0.43636262]"
+a5055383240,10.1007/s10951-006-5595-4,"['Inappropriate Medication Use', 'Potentially Inappropriate Prescribing', 'Medication Adherence', 'Medication Persistence']","[0.607653, 0.579622, 0.5079, 0.501845]"
+a5055383240,10.1137/s0097539702402780,"['Knowledge Management', 'Data Integration']","[0.629756, 0.543682]"
+a5056834851,10.1007/978-3-642-04645-2_13,"['SemEval', 'Aspect-based Sentiment Analysis', 'Sentiment Analysis', 'Emotion Recognition', 'Topic Modeling']","[0.87265, 0.636927, 0.583141, 0.509997, 0.500222]"
+a5056834851,10.1016/j.dam.2014.08.001,['Mortality'],[0.484996]
+a5056834851,10.1111/sjos.12415,"['Pandemic', 'Psychological Language Analysis', 'Medical record', 'Public health surveillance']","[0.68374974, 0.533199, 0.5176273, 0.48694932]"
+a5044546919,10.1109/fuzzy.1996.552399,"['Multi-Agent Systems', 'Negotiation']","[0.508651, 0.500333]"
+a5044546919,10.1109/fuzz-ieee.2012.6251145,"['Scope (computer science)', 'Ambient Intelligence', 'Context-Aware Applications', 'Collective intelligence']","[0.6873948, 0.58628, 0.563476, 0.5044457]"
+a5044546919,10.1007/978-3-540-71258-9_11,"['Ambient Intelligence', 'Mobile Agents', 'Context-Aware Applications', 'Internet Applications']","[0.632515, 0.558546, 0.545066, 0.508317]"
+a5044546919,10.1007/3-540-61273-4_15,"['Divergence (linguistics)', 'Multitarget Tracking', 'Sensor Fusion']","[0.57705784, 0.57235, 0.566323]"
+a5044546919,10.1007/978-3-662-45704-7,"['Anomaly Detection', 'Outlier Detection', 'High-Dimensional Data', 'Deep Learning', 'Video Analysis', 'Anomaly (physics)']","[0.693904, 0.649939, 0.548706, 0.535807, 0.523096, 0.41606244]"
+a5019342840,10.1016/s0169-023x(01)00025-8,"['Normalization (sociology)', 'Affective Computing', 'Emotion Recognition', 'Physiological Signals', 'Video game', 'Deep Learning for EEG', 'EEG Analysis', 'Modality (human–computer interaction)', 'Feature (linguistics)']","[0.5981208, 0.587348, 0.582648, 0.565663, 0.5378536, 0.522939, 0.521403, 0.5020447, 0.41739812]"
+a5069148908,10.1007/3-540-44676-1_16,"['Soundness', 'Abstract interpretation', 'Sect', 'Static Code Attributes', 'Source Code Analysis', 'Software Reliability Modeling', 'Sensitivity Analysis', 'Code Clone Detection', 'Parametrization (atmospheric modeling)', 'Rounding']","[0.7804928, 0.7310372, 0.53441346, 0.527165, 0.51543, 0.506831, 0.504163, 0.500434, 0.45076427, 0.45026356]"
+a5069148908,10.1007/978-3-319-42634-1_2,['Automated Testing'],[0.533934]
+a5008504744,10.1016/j.ejor.2018.01.046,"['Stochastic Petri Nets', 'Temporal Logic', 'Petri Nets', 'Process Modeling Languages', 'Feature (linguistics)', 'Transition system']","[0.538886, 0.537762, 0.516962, 0.505465, 0.4500773, 0.43194452]"
+a5008504744,10.1016/j.tcs.2013.01.021,"['Opacity', 'Predicate (mathematical logic)', 'Permission Analysis']","[0.8733325, 0.7294992, 0.486737]"
+a5008504744,10.1109/tcad.2007.907232,"['Stochastic Petri Nets', 'Temporal Logic', 'Petri Nets']","[0.567499, 0.526642, 0.516745]"
+a5008504744,10.1109/mdt.2012.2205480,"['Synchronizing Automata', 'Temporal Logic', 'Automata', 'Control Barrier Functions', 'Combinatorics on Words', 'Timed automaton']","[0.666467, 0.634386, 0.56288, 0.552067, 0.55112, 0.53624576]"
+a5008504744,10.1109/tcad.2005.855835,['Model Checking'],[0.504375]
+a5057674250,10.1109/vts.2013.6548889,['Alternative Medicine'],[0.504935]
+a5057674250,10.7250/csimq.2016-7.04,"['Intimate Partner Violence', 'Adolescent Dating Violence', 'Prevalence']","[0.523154, 0.51644, 0.515735]"
+a5057674250,10.1007/978-3-662-48899-7_37,"['Capsule Endoscopy', 'Double-Balloon Enteroscopy', 'Immersive Simulations', 'Capsule']","[0.584371, 0.515017, 0.511684, 0.44348297]"
+a5057674250,10.1109/mra.2016.2611586,"['3D Mapping', 'Visual Odometry', 'RGB-D Cameras', 'Capsule']","[0.532448, 0.509934, 0.506467, 0.4269321]"
+a5057674250,10.1007/s10676-006-9134-y,"['Real-time operating system', 'RTOS', 'Reconfigurable Computing', 'Embedded Systems', 'System-on-Chip', 'Hard Real-Time Systems']","[0.7610493, 0.544014, 0.538743, 0.533011, 0.528981, 0.514996]"
+a5057674250,10.1007/3-540-60925-3_58,"['Detector Performance', 'Particle Detectors', 'Gaseous Detectors', 'Silicon Detectors']","[0.54862, 0.542349, 0.518026, 0.507905]"
+a5057674250,10.1007/bfb0027327,['Intimate Partner Violence'],[0.495582]
+a5040561209,10.48550/arxiv.2308.10801,"['Benchmarking', 'Best practice', 'Global Optimization', 'Optimization Software']","[0.9334017, 0.6839427, 0.556838, 0.543196]"
+a5040561209,10.1145/3110025.3110158,"['Premature convergence', 'Differential Evolution', 'Optimization Applications', 'Evolutionary Algorithms', 'Hybrid Optimization', 'Nature-Inspired Algorithms']","[0.7145965, 0.541376, 0.520709, 0.519534, 0.504989, 0.502297]"
+a5040561209,10.1007/978-3-642-25873-2_18,"['Discrepancy Minimization', 'Curvature Estimation', 'Sample (material)']","[0.587351, 0.520147, 0.41927916]"
+a5029270613,10.1016/j.ipl.2011.06.010,"['Adjacency matrix', 'Quantum Computation', 'Fault-tolerant Quantum Computation', 'Computation', 'Quantum Simulation', 'Quantum Machine Learning', 'Adjacency list', 'Maxima and minima']","[0.7902001, 0.54681, 0.527362, 0.524332, 0.523591, 0.519153, 0.46700323, 0.45255175]"
+a5029270613,10.1109/mass.2016.046,"['Descent (aeronautics)', 'Disjoint sets', 'Vehicle Routing Problem', 'Scheduling', 'Constraint Optimization', 'Time Windows', 'Shift Scheduling']","[0.61032194, 0.57437146, 0.567108, 0.548772, 0.537241, 0.536732, 0.528678]"
+a5029270613,10.1007/978-3-319-13464-2,"['Gathering Algorithms', 'Graph Algorithms', 'Competitive analysis']","[0.525317, 0.507792, 0.5026698]"
+a5029270613,10.1007/978-3-642-16023-3_27,"['Microprocessor', 'Scheduling', 'Performance Optimization', 'GPU Computing', 'Power Management', 'Multicore Architectures']","[0.7773411, 0.543402, 0.520834, 0.51609, 0.515105, 0.513587]"
+a5029270613,10.1016/j.physa.2006.04.047,"['Scheduling', 'Dynamic Scheduling', 'Performance Optimization', 'Hybrid Optimization', 'Resource Allocation']","[0.617699, 0.601582, 0.530831, 0.517119, 0.502249]"
+a5003029415,10.1109/icmas.2000.858428,"['Margin (machine learning)', 'Semi-Supervised Learning', 'Model Selection', 'Multiclass classification', 'Outlier Detection', 'Robust Estimation']","[0.58590215, 0.526863, 0.514216, 0.5113682, 0.508574, 0.507119]"
+a5003029415,10.1613/jair.1870,"['Binary classification', 'Benchmark (surveying)', 'Constructive', 'Federated Learning']","[0.60566694, 0.5435765, 0.49610743, 0.495427]"
+a5003029415,10.1007/s10479-008-0335-0,"['Model Selection', 'Conditional expectation']","[0.521958, 0.41231385]"
+a5003029415,10.1609/aaai.v24i1.7640,"['Robust Estimation', 'Robust Statistics', 'Principal Component Analysis']","[0.539926, 0.522404, 0.519732]"
+a5076504951,10.1007/s10458-019-09417-x,"['Interpretability', 'Post hoc', 'Interpretable Models', 'Model Interpretability', 'Machine Learning Interpretability', 'Counterfactual conditional', 'Uncertainty Estimation', 'Visual Explanations', 'Black box', 'Ground truth']","[0.97829664, 0.7074436, 0.604901, 0.60287, 0.583511, 0.5633346, 0.517131, 0.50608, 0.43489718, 0.41704798]"
+a5076504951,10.1016/j.ijar.2023.108982,"['Interpretability', 'Closeness', 'Machine Learning Interpretability', 'Interpretable Models', 'Model Interpretability', 'Instance Selection', 'Robust Learning', 'Training set']","[0.84807444, 0.6586347, 0.611011, 0.583891, 0.577646, 0.549037, 0.535309, 0.46476468]"
+a5076504951,10.1145/860575.860604,"['Analogical reasoning', 'Fuzzy Rule-Based Systems', 'Interval Type-2 Fuzzy Logic', 'Neuro-Fuzzy Methods', 'Intuitionistic Fuzzy Sets', 'Fuzzy Logic Systems', 'Base (topology)', 'Fuzzy rule']","[0.6733372, 0.595463, 0.580138, 0.569742, 0.568488, 0.538359, 0.46779877, 0.4299038]"
+a5076504951,10.1007/978-3-540-75526-5_1,"['Interpretability', 'Closeness', 'Machine Learning Interpretability', 'Interpretable Models', 'Model Interpretability', 'Instance Selection', 'Robust Learning', 'Training set']","[0.84128916, 0.6222497, 0.618926, 0.59882, 0.591923, 0.564816, 0.543231, 0.47286057]"
+a5076504951,10.1287/ijoc.1070.0260,"['Rank (graph theory)', 'Robust Learning', 'Tree (set theory)']","[0.70617634, 0.503595, 0.4553682]"
+a5076504951,10.1007/978-3-642-04428-1_30,"['Decision Trees', 'Neuro-Fuzzy Methods', 'Fuzzy Rule-Based Systems', 'Fuzzy Logic Systems', 'Temporal Data Mining', 'Alternating decision tree']","[0.620413, 0.555862, 0.550486, 0.547584, 0.530375, 0.46391004]"
+a5063171222,10.1016/0893-6080(91)90071-c,"['Vehicle Routing Problem', 'Large-Scale Optimization']","[0.529058, 0.526754]"
+a5063171222,10.1007/978-3-642-33536-5_7,"['Selfish Routing', 'Online Algorithms', 'Gathering Algorithms', 'Mechanism Design']","[0.519299, 0.5121, 0.511943, 0.50559]"
+a5063171222,10.1016/j.ipl.2014.11.001,"['Minification', 'Scheduling', 'Dynamic Scheduling']","[0.6057391, 0.580271, 0.552236]"
+a5063171222,10.1109/icdcs.2007.95,"['MapReduce', 'Convex Optimization', 'Resource Allocation', 'Large-Scale Optimization', 'Energy Efficiency', 'Linear programming relaxation', 'Minification']","[0.56274, 0.535517, 0.509742, 0.507855, 0.506029, 0.4737716, 0.46204588]"
+a5031467845,10.24963/ijcai.2022/632,"['Price of anarchy', 'Mechanism design', 'Coordination Games']","[0.6420352, 0.51746875, 0.489741]"
+a5031467845,10.1016/j.tcs.2017.01.013,"['Resource Allocation', 'Scalability', 'Data center']","[0.591413, 0.503143, 0.44867113]"
+a5031467845,10.1613/jair.1.14117,[],[]
+a5091734149,10.1145/2361354.2361380,"['Test Data Compression', 'IBM', 'Scan Testing', 'Low-Power Testing', 'Delay Fault Testing', 'Test Vector Compression']","[0.568228, 0.5452292, 0.538167, 0.53658, 0.509826, 0.509815]"
+a5091734149,10.1016/s0169-023x(00)00033-1,"['Envelope detector', 'SIGNAL (programming language)', 'Analog Circuit Fault Diagnosis', 'Low-Power Testing', 'Delay Fault Testing']","[0.6233572, 0.5924711, 0.524395, 0.508906, 0.501875]"
+a5091734149,10.1145/1774088.1774179,"['Transceiver', 'Logic Encryption', 'Design flow']","[0.7055509, 0.512817, 0.4192441]"
+a5091734149,10.1016/j.is.2020.101495,"['Delay Fault Testing', 'System-on-a-Chip Test', 'Analog Circuit Fault Diagnosis', 'On-Chip Protection', 'Low-Power Testing']","[0.532701, 0.526521, 0.5152, 0.510939, 0.504184]"
+a5091734149,10.1007/978-3-540-71351-7_54,['Low-Power Testing'],[0.554652]
+a5052738299,10.1007/978-3-642-16020-2_29,"['Human Perception of Robots', 'Human-Robot Interaction', 'Socially Assistive Robotics', 'Design Research', 'Social robot', 'Empirical research', 'Human–robot interaction']","[0.53495, 0.513988, 0.510965, 0.50928, 0.48562708, 0.47507995, 0.41701064]"
+a5009688030,10.3897/biss.6.94297,"['Partial Differential Equations', 'Optimization', 'Numerical Computing', 'Model Reduction', 'Effective domain', 'Operator (biology)']","[0.522571, 0.517849, 0.511072, 0.505187, 0.4497773, 0.4463705]"
+a5009688030,10.1016/j.ijmultiphaseflow.2006.05.010,"['Feature Importance', 'Counterfactual conditional', 'Model Interpretability', 'Machine Learning Interpretability', 'Topic Modeling', 'Interpretable Models', 'Feature (linguistics)']","[0.624301, 0.56843895, 0.54197, 0.535774, 0.533884, 0.531043, 0.4895035]"
+a5009688030,10.1006/jcph.2002.7169,"['Player Modeling', 'Real-Time Strategy Games', 'General Game Playing']","[0.534245, 0.531526, 0.514462]"
+a5056981393,10.2514/6.2003-3110,"['Enumeration', 'Link (geometry)', 'Clique', 'Approximate Matching', 'Text Indexing', 'Approximation Algorithms', 'String Matching', 'Combinatorial Optimization', 'Clique problem']","[0.89370245, 0.8327267, 0.7556259, 0.617068, 0.595339, 0.589836, 0.581323, 0.577737, 0.43882465]"
+a5056981393,10.1016/s0040-1951(96)00027-3,"['Parameterized Complexity', 'Graph Labeling', 'Approximation Algorithms', 'Fixed-Parameter Algorithms', 'Computational Complexity', 'Complete bipartite graph']","[0.607138, 0.603027, 0.583513, 0.57533, 0.568252, 0.42082134]"
+a5056981393,10.1016/s0167-739x(00)00072-8,"['Social Network Analysis', 'Community Structure', 'Hyperlink Analysis', 'Online Communities', 'Crowdsourcing']","[0.56998, 0.528207, 0.522851, 0.518426, 0.517778]"
+a5080217489,10.1016/j.crma.2013.03.010,['Blockchain'],[0.607892]
+a5031952531,10.1007/s00382-006-0173-1,['Influence Maximization'],[0.485531]
+a5031952531,10.1016/j.rse.2015.03.019,"['Modularity (biology)', 'Community Structure', 'Signal Processing on Graphs', 'Similarity (geometry)']","[0.7319975, 0.553573, 0.538228, 0.4798455]"
+a5031952531,10.1016/j.atmosres.2015.05.011,"['Link (geometry)', 'Signal Processing on Graphs', 'Relational Data Modeling', 'Representation Learning']","[0.6027749, 0.535412, 0.515848, 0.515207]"
+a5031952531,10.1016/j.rse.2005.10.005,"['Clique', 'Link (geometry)', 'Representation (politics)', 'User Interaction', 'Interactive Visualization', 'Sequence (biology)']","[0.7818473, 0.6987686, 0.5901584, 0.535907, 0.508092, 0.48527667]"
+a5031952531,10.1029/1999jd900431,"['Clique', 'Link (geometry)', 'Botnet Detection', 'Influence Maximization']","[0.8304794, 0.80645996, 0.505512, 0.501017]"
+a5000925369,10.1371/journal.pcbi.1007732,['Social Procurement'],[0.47322]
+a5000925369,10.1214/08-aihp166,"['Argumentation Frameworks', 'Nonmonotonic Reasoning', 'Dialectical Argumentation', 'Decision theory', 'Description Logics', 'Epistemic Logic', 'Decision rule', 'Argumentation framework', 'Decision problem']","[0.589459, 0.558756, 0.529704, 0.51521045, 0.504147, 0.500631, 0.46981648, 0.43865275, 0.41042578]"
+a5012670875,10.1109/tit.2016.2524628,"['Robustness (evolution)', 'Theory of computation', 'Robust Optimization', 'Portfolio Optimization', 'Convex Optimization', 'Stochastic dominance', 'Group Decision Making', 'Structure Learning', 'Axiomatic system']","[0.6206371, 0.6146041, 0.588463, 0.549428, 0.539711, 0.5294055, 0.516567, 0.512627, 0.45083487]"
+a5012670875,10.1137/18m1200750,"['Trajectory Data Mining', 'Semantic Trajectories', 'Constraint Optimization', 'Algorithm Selection', 'Preference relation', 'Binary relation']","[0.541919, 0.538382, 0.528805, 0.512271, 0.453463, 0.41728887]"
+a5012670875,10.1093/imaiai/iaaa007,"['Multi-Objective Optimization', 'Optimization', 'Basis (linear algebra)', 'Tree (set theory)']","[0.581754, 0.545169, 0.5371429, 0.47876754]"
+a5012670875,10.1137/16m1059205,['Knapsack Problem'],[0.527352]
+a5012670875,10.1137/130941560,"['Preference Elicitation', 'Rank (graph theory)', 'Group Decision Making', 'Discrete Choice Models', 'Stated Preference Methods', 'Inference Algorithms', 'Decision maker', 'Choquet integral']","[0.605355, 0.5717736, 0.545169, 0.531403, 0.529261, 0.527484, 0.4668342, 0.41695824]"
+a5012670875,10.48550/arxiv.2402.04650,"['Parameterized Complexity', 'Constraint Satisfaction Problems', 'Rank Aggregation', 'Graph Theory', 'Fixed-Parameter Algorithms']","[0.570138, 0.514201, 0.511471, 0.503567, 0.501849]"
+a5012670875,10.1007/s10589-022-00442-3,"['Bounding overwatch', 'Robust Optimization', 'Regret Analysis', 'Optimization Software', 'Bandit Optimization', 'Convex Optimization']","[0.6031178, 0.577016, 0.566741, 0.564469, 0.552183, 0.548307]"
+a5012670875,10.1007/s11749-016-0481-7,"['Cardinality (data modeling)', 'Knapsack Problem', 'Order Picking']","[0.69969225, 0.578003, 0.536209]"
+a5025612115,10.1787/17293626,['Feature (linguistics)'],[0.55291456]
+a5025612115,10.1007/s13171-018-0133-y,"['Vagueness', 'Preference relation', 'Intuitionistic Fuzzy Sets', 'Fuzzy Sets', 'Fuzzy Differential Equations', 'Group Decision Making', 'Random Fuzzy Variables']","[0.69434047, 0.5888711, 0.572097, 0.563308, 0.525944, 0.519221, 0.515996]"
+a5025612115,10.1006/jmaa.2001.7754,"['Relevance (law)', 'Multi-criteria Assessment', 'Integrated Assessment', 'Animal Welfare', 'Behavioural Assessment', 'Farm Animal Welfare', 'Data aggregator']","[0.60594547, 0.560967, 0.549733, 0.539042, 0.533868, 0.501246, 0.44820148]"
+a5025612115,10.1214/19-aos1858,"['Decision-making', 'Admissible decision rule', 'Imprecise Probabilities', 'Axiomatic system', 'Decision theory']","[0.552377, 0.54166245, 0.512379, 0.48035276, 0.4235705]"
+a5025612115,10.1214/20-ejs1792,"['Decision theory', 'Nonmonotonic Reasoning', 'Temporal Logic', 'Modal Logics', 'Imprecise Probabilities', 'Probabilistic Learning', 'Representation (politics)']","[0.57135767, 0.542986, 0.515527, 0.512842, 0.503563, 0.503487, 0.49775746]"
+a5025612115,10.1007/978-3-319-12442-1_3,"['Compromise', 'Multi-Agent Systems', 'Viewpoints', 'Decision problem']","[0.6799128, 0.473307, 0.42943078, 0.41611364]"
+a5025612115,10.1016/j.jmaa.2003.10.029,"['Rank (graph theory)', 'Scoring rule', 'Voting Procedures', 'Winner Determination', 'Rank Aggregation', 'Judgment Aggregation', 'Approval voting', 'Anti-plurality voting']","[0.7936306, 0.69435287, 0.593165, 0.530126, 0.521573, 0.5145, 0.4927185, 0.4355034]"
+a5025612115,10.1038/nmeth.2714,"['Concordance', 'Formalism (music)', 'Group Decision Making', 'Decision Analysis']","[0.9507946, 0.6594278, 0.534356, 0.522144]"
+a5086752907,10.1093/nar/gkq041,"['Relevance (law)', 'User Motivations', 'Click-Through Rate Prediction', 'User Modeling', 'User Behavior', 'Web Mining', 'Relevance feedback']","[0.82715267, 0.5963, 0.593864, 0.592567, 0.574793, 0.559915, 0.4438342]"
+a5086752907,10.1371/journal.pone.0148620,"['Discriminative model', 'Context-Aware Recommender Systems', 'Pooling', 'Content-Based Recommendation', 'Trust-Aware Recommender Systems', 'Collaborative Filtering', 'Knowledge Sharing', 'Factor analysis']","[0.6938442, 0.624389, 0.6095203, 0.587692, 0.585022, 0.555348, 0.543902, 0.4276892]"
+a5086752907,10.1016/j.copbio.2010.10.003,"['Benchmark (surveying)', 'Text Indexing']","[0.75674117, 0.506357]"
+a5086752907,10.1093/cid/ciac399,"['Topic Modeling', 'Language Modeling', 'Syntax-based Translation Models', 'Named Entity Recognition']","[0.514203, 0.512248, 0.506693, 0.502017]"
+a5086752907,10.1007/s11568-010-9137-y,"['Initialization', 'Representation (politics)', 'Information Retrieval', 'Pretrained Models', 'Deep Learning']","[0.6985243, 0.5486454, 0.517529, 0.503506, 0.501643]"
+a5063338404,10.1016/s0144-8617(01)00375-7,"['Paging', 'Online Algorithms']","[0.95331293, 0.499516]"
+a5063338404,10.1016/s0008-6215(03)00010-7,"['Stewardship (theology)', 'Personal Information Management', 'Privacy Concerns', 'Privacy Preserving', 'Data Privacy', 'Data Cleaning', 'Conceptual framework']","[0.8118124, 0.520626, 0.518873, 0.508857, 0.505985, 0.502891, 0.42724127]"
+a5049035512,10.1016/j.petrol.2017.06.074,['Mobile Agents'],[0.516745]
+a5049035512,10.1016/j.ijid.2022.12.042,"['Web Data Extraction', 'Web Crawling', 'Frequent Patterns', 'File Sharing']","[0.573032, 0.562903, 0.528498, 0.500462]"
+a5049035512,10.1016/j.insmatheco.2022.08.002,"['Buffer Management', 'Replication (statistics)']","[0.514207, 0.4223676]"
+a5049035512,10.1214/16-ejs1189,"['Web Crawling', 'Caching', 'Web Data Extraction', 'Page Segmentation', 'Edge Caching']","[0.605117, 0.556169, 0.551664, 0.521884, 0.517498]"
+a5049035512,10.1080/03461238.2021.1872694,"['Column-oriented Database Systems', 'Relational Database Systems', 'Complex Event Processing']","[0.550623, 0.528815, 0.504564]"
+a5044389669,10.1016/j.jspi.2016.01.008,"['Brain-Computer Interfaces', 'Sensory Processing', 'Working Memory', 'BCI Technology', 'BCI Communication', 'Interface (matter)']","[0.586675, 0.530151, 0.517903, 0.509537, 0.509007, 0.4996946]"
+a5090273130,10.1103/physrevd.84.074025,"['Conservation law', 'Hyperbolic Conservation Laws', 'Uncertainty Quantification', 'Stabilized Methods', 'Inviscid flow', 'Turbulence Modeling', 'Moment closure', 'Closure problem']","[0.8194815, 0.599255, 0.571091, 0.543062, 0.53327596, 0.521755, 0.44584712, 0.4374287]"
+a5090273130,10.1016/j.ibiod.2013.04.015,"['Convection-Diffusion Problems', 'Hyperbolic Conservation Laws', 'Finite Volume Methods', 'Adaptive Mesh Refinement', 'Stabilized Methods']","[0.554916, 0.55363, 0.547812, 0.535159, 0.529943]"
+a5090273130,10.1039/d2lc00816e,"['Finite Volume Methods', 'Adaptive Mesh Refinement', 'Finite Element Methods', 'Stabilized Methods', 'Upscaling Techniques']","[0.571479, 0.540528, 0.515139, 0.514038, 0.510348]"
+a5090273130,10.1016/j.ifacol.2017.08.1167,"['Cove', 'Noise Prediction', 'Numerical Simulation', 'Large-Eddy Simulation', 'Jet Noise', 'CFD Simulations']","[0.9424739, 0.675052, 0.579561, 0.568565, 0.565183, 0.556476]"
+a5090273130,10.1016/j.biteb.2021.100883,"['Finite Volume Methods', 'Adaptive Mesh Refinement', 'Duality (order theory)']","[0.591121, 0.505282, 0.46951956]"
+a5090273130,10.1137/s0363012998347134,"['Conservation law', 'Uncertainty Quantification', 'Spurious relationship']","[0.82219124, 0.522119, 0.5030884]"
+a5090273130,10.1016/j.biteb.2022.100961,"['Solver', 'Finite Volume Methods', 'Immersed Boundary Method', 'Turbulence Modeling', 'Fluid Mechanics', 'Adaptive Mesh Refinement', 'Compressible flow', 'Feature (linguistics)']","[0.61031985, 0.562008, 0.544348, 0.530983, 0.529157, 0.525726, 0.49281505, 0.47644025]"
+a5004798802,10.3390/metabo10010014,"['Schwarz alternating method', 'Additive Schwarz method', 'Helmholtz equation', 'Stabilized Methods', 'Elliptic Problems', 'Helmholtz free energy']","[0.9861059, 0.92695826, 0.6364998, 0.516747, 0.503376, 0.472683]"
+a5004798802,10.1109/tcbb.2016.2544299,"['Robustness (evolution)', 'Coarse-Grained Computation', 'PDE-Constrained Optimization', 'Eigenvalue Problems', 'Sparse Linear Systems']","[0.64923275, 0.539883, 0.514209, 0.510877, 0.507542]"
+a5004798802,10.1016/j.jnca.2017.03.001,"['Schwarz alternating method', 'Convection-Diffusion Problems', 'PDE-Constrained Optimization', 'Adaptive Mesh Refinement']","[0.6163882, 0.514936, 0.513968, 0.505423]"
+a5004798802,10.7202/1047053ar,['Reservoir Simulation'],[0.537983]
+a5004798802,10.1016/j.ces.2018.11.048,"['PDE-Constrained Optimization', 'Stabilized Methods', 'Domain Decomposition Method', 'Dispersion Analysis', 'High-Order Methods', 'Interface (matter)']","[0.549228, 0.53931, 0.538559, 0.525938, 0.523575, 0.5204587]"
+a5004798802,10.1007/s10851-011-0306-y,['Transport Modeling'],[0.504736]
+a5004798802,10.1109/cdc.2001.914658,"['Multigrid method', 'Preconditioning Techniques', 'Structured Preconditioners', 'Domain Decomposition Method', 'Multiscale Modeling', 'Preconditioners']","[0.85216653, 0.568524, 0.553558, 0.549781, 0.542959, 0.526706]"
+a5004798802,10.48550/arxiv.1102.5711,"[""Godunov's scheme"", 'Roe solver', 'Conservation law', 'Finite Volume Methods', 'Flux limiter', 'Upwind scheme', 'Solver']","[0.91884077, 0.9010394, 0.7066511, 0.557581, 0.5241525, 0.4262374, 0.4215246]"
+a5004798802,10.1038/nmat999,"['Conservation law', 'Flux limiter', 'Finite Volume Methods', 'Turbulence Modeling', 'Hydrodynamic Turbulence', 'Incompressible Flow', 'Turbulent Flows', 'Closure (psychology)']","[0.69090295, 0.5964359, 0.596161, 0.543851, 0.52949, 0.505261, 0.503022, 0.47311017]"
+a5004798802,10.1016/s0376-7388(98)00256-7,"['Control volume', 'Elliptic Problems', 'Finite Volume Methods', 'Stabilized Methods', 'Operator (biology)', 'Turbulence Modeling']","[0.6168168, 0.564254, 0.561277, 0.540633, 0.511673, 0.500881]"
+a5073300655,10.1063/1.4820953,"['Nowcasting', 'Quantitative precipitation forecast', 'Flood Inundation Modeling', 'Rainfall', 'Hydrological Modeling', 'Probabilistic Forecasting', 'Surface Water Mapping', 'Weather radar']","[0.8092832, 0.7608579, 0.607794, 0.566847, 0.566545, 0.539222, 0.522955, 0.45287168]"
+a5073300655,10.1002/2016gl070033,"['Spring bloom', 'Bloom', 'Mixed layer', 'Phytoplankton']","[0.7821758, 0.61003405, 0.56151164, 0.511503]"
+a5073300655,10.1063/1.4811467,"['Oceanic Modeling', 'Sophistication', 'Tidal Analysis', 'Wavelet Analysis', 'Forecasting']","[0.576003, 0.55551857, 0.535814, 0.508359, 0.501428]"
+a5073300655,10.1029/2021ja029773,"['Moderate-resolution imaging spectroradiometer', 'Gradient boosting', 'Aerosol Formation', 'Organic Aerosol', 'Emission Modeling', 'Satellite Observations']","[0.55636495, 0.53695226, 0.530973, 0.512553, 0.509259, 0.500594]"
+a5073300655,10.1002/2016ja023051,"['Data Assimilation', 'Model Reduction', 'Lorenz system']","[0.587171, 0.533851, 0.50112057]"
+a5073300655,10.1002/2015gl067187,['Satellite Observations'],[0.488626]
+a5073300655,10.1029/2021ja029774,"['SeaWiFS', 'Ocean color', 'Phytoplankton']","[0.926382, 0.77398586, 0.499804]"
+a5073300655,10.1002/2014ja020969,['Sea Ice'],[0.440517]
+a5073300655,10.1002/2016ja023831,"['SeaWiFS', 'Ocean color', 'Atmospheric correction', 'Aerosol Formation', 'Aerosols', 'Spectral bands']","[0.980695, 0.66062856, 0.5634997, 0.529525, 0.502146, 0.41562968]"
+a5073300655,10.22541/essoar.170808382.29449499/v1,"['SeaWiFS', 'Atmospheric correction', 'Ocean color', 'Classification of discontinuities', 'Change Detection', 'Physical oceanography']","[0.99136436, 0.7974387, 0.6193937, 0.57457334, 0.494689, 0.44341755]"
+a5073300655,10.1063/1.3664320,['Sea Ice'],[0.486062]
+a5073300655,10.1002/2017ja024553,['Antarctic Comparison'],[0.488897]
+a5042022387,10.1029/2019gl086546,"['Oceanic Modeling', 'Mixed Layer Depth', 'Tidal Analysis', 'Seismic Data Processing', 'Optimization', 'Sea-surface height']","[0.577779, 0.563645, 0.555971, 0.532847, 0.516341, 0.48781422]"
+a5042022387,10.1016/j.watres.2017.12.035,"['Seismic Data Processing', 'Mode (computer interface)']","[0.517717, 0.44194818]"
+a5042022387,10.1021/am405278j,['ENSO Variability'],[0.50062]
+a5042022387,10.1007/s00586-009-1017-6,"['Prochlorococcus', 'SeaWiFS', 'Phytoplankton', 'Phytoplankton Interactions', 'Deep-Sea Ecology', 'Dominance (genetics)', 'Ocean color', 'Mediterranean Basin', 'Coccolithophore']","[0.70324343, 0.59071577, 0.531276, 0.515947, 0.515908, 0.51389337, 0.48238483, 0.472524, 0.45160142]"
+a5042022387,10.1016/j.snb.2011.09.014,"['Phytoplankton', 'Oceanic Modeling']","[0.510195, 0.506731]"
+a5082187550,10.1109/tifs.2016.2555286,"['Host-Parasite Coevolution', 'Phylogenetic Analysis', 'Approximate Bayesian Computation', 'Approximation Algorithms', 'Minification']","[0.61064, 0.521856, 0.509466, 0.502003, 0.48246744]"
+a5082187550,10.1007/s11042-020-09004-3,"['Statistical inference', 'Sparse Models', 'Model Selection', 'Radial Basis Function Networks']","[0.6636981, 0.547281, 0.514412, 0.51032]"
+a5082187550,10.1109/lsp.2016.2630740,"['Mutualistic Networks', 'Ecological network']","[0.516452, 0.49506083]"
+a5051963748,https://doi.org/10.1145/2959100.2959183,"['Relevance (law)', 'Context-Aware Recommender Systems', 'Content-Based Recommendation', 'Trust-Aware Recommender Systems', 'Point of interest', 'Collaborative Filtering']","[0.74154204, 0.571311, 0.55418, 0.553599, 0.5294653, 0.503372]"
+a5051963748,https://doi.org/10.1016/j.irbm.2023.100776,"['Interpolation (computer graphics)', 'Heart Rate Variability', 'Arrhythmia Detection', 'Pulse Oximetry', 'Heartbeat Classification']","[0.6916373, 0.594824, 0.540397, 0.506659, 0.505925]"
+a5051963748,https://doi.org/10.5220/0010985400003123,"['Physiological Signals', 'Multimodal Data', 'Continuous Blood Pressure Estimation', 'Emotion Recognition', 'Wearable Sensors']","[0.626309, 0.616759, 0.587599, 0.538607, 0.531858]"
+a5051963748,https://doi.org/10.1109/cscwd.2011.5960069,"['Tangible User Interfaces', 'Collaborative software', 'Collaborative Work', 'Multi-Device Interfaces', 'User-Centered Design', 'Usability', 'Whiteboard']","[0.53892, 0.53641915, 0.5287, 0.521445, 0.513616, 0.504575, 0.47722107]"
+a5051963748,https://doi.org/10.1109/wi.2016.0110,"['Popularity', 'Relevance (law)', 'Point of interest', 'Context-Aware Recommender Systems', 'Content-Based Recommendation', 'Trust-Aware Recommender Systems']","[0.6918722, 0.68061805, 0.6293231, 0.582177, 0.557989, 0.551153]"
+a5051963748,https://doi.org/10.1007/978-1-84628-758-9_7,"['Reuse of Educational Resources', 'Learning Object Repositories', 'Open Educational Resources', 'Online Learning', 'Educational Practices']","[0.612215, 0.570606, 0.569922, 0.545198, 0.503941]"
+a5044064042,https://doi.org/10.1163/22105832-00601015,"['Uzbek', 'Kazakh', 'Language Contact', 'Turkic', 'Central asia', 'Language family']","[0.6534122, 0.5696785, 0.52128, 0.511218, 0.4505015, 0.4169318]"
+a5044064042,https://doi.org/10.1046/j.1529-8817.2003.00044.x,"['Geographical distance', 'Flemish', 'Isolation by distance', 'Bilingualism', 'Croatian']","[0.8041357, 0.8006203, 0.5563217, 0.477874, 0.4261959]"
+a5027364763,https://doi.org/10.1016/j.jmig.2017.07.014,"['Adenomyosis', 'Conservative treatment', 'Uterine Artery Embolization', 'Refractory (planetary science)']","[0.96281314, 0.5564288, 0.458736, 0.45655033]"
+a5027364763,https://doi.org/10.1016/j.rbmo.2024.103980,['Multiple Sclerosis'],[0.479697]
+a5027364763,https://doi.org/10.1007/s10815-016-0692-6,"['Embryo cryopreservation', 'Ovarian Tissue Cryopreservation', 'Selective Embryo Transfer', 'Cryopreserved Oocytes', 'Embryo Development']","[0.71935475, 0.552569, 0.544179, 0.519407, 0.504136]"
+a5033136511,https://doi.org/10.1007/s10878-021-00751-z,"['Polyomino', 'Convexity', 'Discrete Geometry']","[0.93334603, 0.8447975, 0.544527]"
+a5033136511,https://doi.org/10.1007/978-3-319-66396-8_16,"['Polyomino', 'Convexity', 'Digital geometry', 'Discrete Geometry']","[0.9381912, 0.79933053, 0.6962863, 0.514693]"
+a5033136511,https://doi.org/10.1007/978-3-030-43120-4_23,"['Christoffel symbols', 'Matrix (chemical analysis)', 'Combinatorics on Words']","[0.9277462, 0.6058589, 0.519416]"
+a5033136511,https://doi.org/10.1007/978-3-030-76657-3_22,"['Hypergraph', 'Sequence (biology)', 'Degree (music)', 'Discrete Geometry', 'Completeness (order theory)']","[0.85714626, 0.66884243, 0.6678356, 0.485507, 0.47843292]"
+a5033136511,https://doi.org/10.1007/978-3-030-48516-0_24,"['Christoffel symbols', 'Tree (set theory)', 'Rational number', 'Catalan number', 'Sequence (biology)', 'Stern', 'Characterization (materials science)', 'Regular Expressions']","[0.72898495, 0.61966527, 0.5667732, 0.5440816, 0.49413612, 0.48533693, 0.48397946, 0.443335]"
+a5076437822,https://doi.org/10.1016/j.patcog.2007.08.014,"['Fuzzy Clustering', 'Semi-supervised Clustering', 'Density-based Clustering', 'Cluster Validation', 'Clustering Algorithms']","[0.613582, 0.552171, 0.545042, 0.534047, 0.532018]"
+a5076437822,https://doi.org/10.1016/j.eswa.2008.06.058,"['Discernment', 'Dempster–Shafer theory', 'Information Retrieval', 'Information fusion']","[0.921944, 0.71597135, 0.476257, 0.41218007]"
+a5064018319,https://doi.org/10.1108/13673270810913595,"['Organizational memory', 'Organizational Learning', 'Knowledge Transfer', 'Knowledge Sharing', 'Organizational Climate', 'Knowledge Representation']","[0.7385442, 0.605887, 0.558575, 0.542404, 0.523379, 0.50956]"
+a5064018319,https://doi.org/10.1007/978-3-030-98531-8_13,"['Context-Aware Recommender Systems', 'Trust-Aware Recommender Systems', 'Content-Based Recommendation', 'Ontology', 'Schema Matching']","[0.600879, 0.557797, 0.536794, 0.526586, 0.515888]"
+a5064018319,https://doi.org/10.1007/978-3-030-85365-5,['Deep Learning'],[0.474903]
+a5000802564,https://doi.org/10.2514/3.21667,"['Infinity', 'H8 Control', 'Finite-Time Stability', 'Robust Control', 'Adaptive Control', 'Passivity-Based Control', 'Geocentric orbit']","[0.6391204, 0.588994, 0.586216, 0.56095, 0.555253, 0.542411, 0.45220494]"
+a5000802564,https://doi.org/10.1109/iecon.2009.5415237,"['Exciter', 'Robustness (evolution)', 'Sensorless Control', 'Observer (physics)']","[0.7076916, 0.52345747, 0.497591, 0.4408181]"
+a5000802564,https://doi.org/10.1016/j.matcom.2015.08.014,"['Tantalum capacitor', 'Decoupling (probability)', 'Equivalent series resistance', 'Film capacitor', 'State of Charge Estimation']","[0.7754376, 0.63459396, 0.5497943, 0.52100825, 0.480758]"
+a5050418541,https://doi.org/10.1109/tits.2020.3027433,"['Position (finance)', 'Precise Point Positioning', 'Quantization', 'Sensor fusion', 'Position error', 'USable']","[0.6454744, 0.523126, 0.504753, 0.5000057, 0.46169388, 0.43746206]"
+a5050418541,https://doi.org/10.1080/15472450802448179,"['Multitarget Tracking', 'Intelligent Transportation Systems', 'Odometer', 'Map matching']","[0.566396, 0.512008, 0.47593808, 0.47343755]"
+a5050418541,https://doi.org/10.1002/rob.22004,"['Localization', 'Location Estimation', 'Indoor Localization', 'Mobile Positioning', '3D Mapping', 'Ranging', 'Sensor fusion', 'Position (finance)']","[0.618325, 0.596369, 0.595201, 0.540837, 0.532201, 0.5277375, 0.45752132, 0.43012863]"
+a5085744367,https://doi.org/10.1098/rsta.1990.0018,"['Ellipse', 'Nonlinear Electrodynamics']","[0.5485018, 0.489312]"
+a5085744367,https://doi.org/10.3917/rdna.795.0103,['Geospatial Crowdsourcing'],[0.487397]
+a5085744367,https://doi.org/10.4000/geohist.3232,['Historical Geographies'],[0.469685]
+a5085744367,https://doi.org/10.3917/rfdc.133.0245,[],[]
+a5054524844,https://doi.org/10.4018/ijicte,"['Language Education', 'Education', 'Information Systems', 'Bilingual Teaching', 'ICTs']","[0.629734, 0.613241, 0.607358, 0.581852, 0.577971]"
+a5054524844,https://doi.org/10.1016/j.cogsys.2019.03.006,"['Player Modeling', 'General Game Playing', 'Real-Time Strategy Games', 'Gamification', 'Game-Based Learning', 'Video game', 'Affective computing']","[0.576936, 0.567473, 0.527992, 0.505377, 0.50448, 0.4276054, 0.41246682]"
+a5054524844,https://doi.org/10.1007/978-3-540-74930-1_18,"['Adaptive hypermedia', 'Adaptive Learning', 'Learning Styles', 'Teaching Methods', 'Educational Technology', 'Instructional Design']","[0.6180443, 0.612432, 0.588618, 0.558654, 0.542012, 0.540782]"
+a5054524844,https://doi.org/10.3166/jds.18.185-201,"['Travel Time Reliability', 'Environmental Decision Making', 'Performance indicator', 'Sustainable transport']","[0.506883, 0.502335, 0.46711573, 0.43924204]"
+a5054524844,https://doi.org/10.4018/ijicte.2013100102,"['Adaptive hypermedia', 'Adaptive Learning', 'Learning Styles', 'Cognitive style', 'Teaching Methods', 'Experiential Learning', 'Online Learning', 'Personalized learning']","[0.7717321, 0.610777, 0.597572, 0.58854437, 0.525212, 0.521701, 0.520224, 0.42727208]"
+a5078607983,https://doi.org/10.1007/s42235-023-00332-2,"['Particle Swarm Optimization', 'Nature-Inspired Algorithms', 'Ant Colony Optimization', 'Feature Matching', 'Image Retrieval', 'Benchmark (surveying)']","[0.596095, 0.527319, 0.525573, 0.51726, 0.510025, 0.45825756]"
+a5078607983,https://doi.org/10.1007/s42235-022-00316-8,"['Mongoose', 'Benchmark (surveying)', 'Multi-Objective Optimization', 'Nature-Inspired Algorithms', 'Constraint Handling', 'Reset (finance)', 'Particle Swarm Optimization', 'Optimization Applications']","[0.8146439, 0.6949874, 0.529028, 0.527456, 0.523107, 0.5187033, 0.518548, 0.518065]"
+a5078607983,https://doi.org/10.1109/access.2023.3304889,"['Global Optimization', 'Leverage (statistics)', 'Particle Swarm Optimization', 'Optimization Applications', 'Ant Colony Optimization', 'Nature-Inspired Algorithms']","[0.593563, 0.58971983, 0.566939, 0.552425, 0.523635, 0.517274]"
+a5008158634,https://doi.org/10.1371/journal.pcbi.1000284,"['Cued speech', 'Stimulus (psychology)', 'Reward Processing', 'Neuronal Adaptation', 'Working Memory', 'Decision-making', 'Sensory Integration', 'Psychometric function']","[0.6388544, 0.62845016, 0.570849, 0.542426, 0.524573, 0.524478, 0.512645, 0.42211726]"
+a5008158634,https://doi.org/10.3389/fendo.2023.1173402,"['Inflammation', 'Mitochondrial Dysfunction']","[0.508187, 0.503672]"
+a5008158634,https://doi.org/10.3389/fmicb.2021.761067,"['Lachnospiraceae', 'Obesity-associated Microbiome', 'Gut Microbiota', 'Roseburia', 'Glycerophospholipid', 'Eubacterium']","[0.69215894, 0.549213, 0.540464, 0.47359326, 0.4572998, 0.437593]"
+a5008158634,https://doi.org/10.1109/tste.2019.2912706,"['Kernel density estimation', 'Parameter Estimation', 'Akaike information criterion', 'Goodness of fit']","[0.730772, 0.499537, 0.4838973, 0.43599954]"
+a5008158634,https://doi.org/10.1038/s41598-024-65044-x,"['Biomarkers', 'Isolation (microbiology)']","[0.549343, 0.4595657]"
+a5070285963,https://doi.org/10.1016/j.ijar.2008.07.003,"['Representation (politics)', 'Generalized Differentiability', 'Imprecise Probabilities', 'Intuitionistic Fuzzy Sets']","[0.6595816, 0.532368, 0.514735, 0.505016]"
+a5070285963,https://doi.org/10.1016/j.ins.2011.05.007,"['Belief Functions', 'Cardinality (data modeling)', 'Belief revision']","[0.585945, 0.58501685, 0.49433208]"
+a5070285963,https://doi.org/10.1109/tfuzz.2008.2005731,"['Information fusion', 'Possibility theory', 'Intuitionistic Fuzzy Sets', 'Fuzzy Sets', 'Group Decision Making', 'Sensor Fusion']","[0.6975441, 0.62520903, 0.584129, 0.542218, 0.52945, 0.518248]"
+a5070285963,https://doi.org/10.1080/03081079.2020.1778682,"['Odds', 'Neighbourhood (mathematics)', 'Robustness (evolution)', 'Robust Estimation', 'Robust Statistics', 'Lifetime Modeling', 'Distortion (music)']","[0.7127335, 0.66050094, 0.60001373, 0.54135, 0.524895, 0.502593, 0.49994946]"
+a5070285963,https://doi.org/10.1016/j.ijar.2009.02.004,"['Univariate', 'Imprecise Probabilities', 'Complementarity (molecular biology)', 'Probabilistic Learning', 'Probabilistic Rough Sets', 'Probabilistic Graphical Models']","[0.8909451, 0.568626, 0.5682649, 0.539995, 0.513538, 0.507394]"
+a5012926469,https://doi.org/10.1101/2020.04.09.20059311,"['Case fatality rate', 'Pandemic', 'Social Distancing']","[0.73141146, 0.64361215, 0.491577]"
+a5012926469,https://doi.org/10.1063/5.0074213,"['Ensemble forecasting', 'Forecasting', 'Nonlinear Dynamics', 'Ensemble learning', 'Adaptability', 'Probabilistic Forecasting', 'Rainfall-Runoff Modeling']","[0.66933274, 0.535154, 0.52336, 0.52172863, 0.51465046, 0.509392, 0.502289]"
+a5012926469,https://doi.org/10.1016/j.neunet.2023.05.049,"['Epidemiology', 'Symptom Networks', 'Infectious Diseases']","[0.606016, 0.505064, 0.50167]"
+a5012926469,https://doi.org/10.1111/exsy.13654,"['Geospatial Mapping', 'Real-Time Seismology', 'Geomorphology', 'Generative model']","[0.535857, 0.525288, 0.515158, 0.50260854]"
+a5012926469,https://doi.org/10.48550/arxiv.2407.04465,"['Numerical Characterization', 'Machine Learning', 'Genomic Signal Processing', 'Fractal Analysis', 'Wavelet Analysis']","[0.565253, 0.548405, 0.522291, 0.507231, 0.502229]"
+a5012926469,https://doi.org/10.1007/s12597-017-0329-2,"['Adaptive Learning', 'Student Performance Prediction', 'Intelligent Tutoring Systems', 'Educational Data Mining', 'Learning Analytics', 'Tree (set theory)']","[0.559867, 0.55128, 0.529811, 0.512357, 0.505897, 0.42011464]"
+a5012926469,https://doi.org/10.1016/j.cam.2019.05.013,['Rainfall-Runoff Modeling'],[0.492518]
+a5012926469,https://doi.org/10.1109/icmla55696.2022.00111,"['Univariate', 'Time Series Forecasting', 'Dynamic Time Warping', 'Forecasting', 'Demand Forecasting', 'Forecasting Models']","[0.63557196, 0.565399, 0.551912, 0.545178, 0.533545, 0.532904]"
+a5012926469,https://doi.org/10.1007/978-3-030-72834-2_29,"['Nowcasting', 'Pandemic', 'Univariate', 'Social Distancing']","[0.86212873, 0.7121393, 0.65864074, 0.473104]"
+a5012926469,https://doi.org/10.1038/s41598-023-49343-3,"['Human settlement', 'Transportation', 'Transportation Modes', 'Kernel density estimation', 'Urban Analysis', 'Settlement (finance)', 'Scarcity']","[0.7017466, 0.542508, 0.523904, 0.5124986, 0.508388, 0.4388519, 0.42671022]"
+a5012926469,https://doi.org/10.1016/j.spl.2019.01.021,"['Ensemble Methods', 'Non-negative Matrix Factorization', 'Spectral Clustering', 'Positive and Unlabeled Data', 'Support Vector Machines', 'Statistical ensemble']","[0.516817, 0.514014, 0.513706, 0.509446, 0.506901, 0.42031795]"
+a5012926469,https://doi.org/10.1007/s12597-019-00386-z,"['Water Quality Monitoring', 'Rainfall-Runoff Modeling', 'Model Performance']","[0.534173, 0.51845, 0.505238]"
+a5012926469,https://doi.org/10.48550/arxiv.2401.00249,"['Benchmark (surveying)', 'Electricity Price Forecasting', 'Economic Policy Uncertainty', 'Short-Term Forecasting', 'Load Forecasting', 'Forecasting Models']","[0.5829346, 0.578834, 0.544485, 0.539987, 0.524987, 0.518697]"
+a5012926469,https://doi.org/10.48550/arxiv.2402.03349,['GIS-based Modeling'],[0.497797]
+a5012926469,https://doi.org/10.2139/ssrn.4720185,"['Imbalanced Data', 'Supervised Learning', 'Deep Learning']","[0.621274, 0.525281, 0.504082]"
+a5012926469,https://doi.org/10.48550/arxiv.2403.06999,"['Statistical learning', 'Temporal Data Analysis', 'Clinical Event Prediction', 'Predictive Modeling', 'Disease Risk Prediction', 'Statistical analysis']","[0.62650895, 0.551832, 0.512276, 0.509371, 0.503941, 0.41938785]"
+a5012926469,https://doi.org/10.48550/arxiv.2404.05482,"['Probabilistic Forecasting', 'Forecasting', 'Air Quality Monitoring', 'Atmospheric Dynamics', 'Air Quality']","[0.648739, 0.637949, 0.636918, 0.575082, 0.566586]"
+a5012926469,https://doi.org/10.48550/arxiv.2405.02919,"['Option Pricing', 'Hedge', 'Volatility Modeling']","[0.642842, 0.59745055, 0.528192]"
+a5021351429,https://doi.org/10.1145/1273496.1273594,"['Multiple kernel learning', 'Kernel (algebra)', 'Kernel Methods', 'Regularization (linguistics)', 'Ensemble Learning', 'Incremental Learning', 'Dimensionality Reduction', 'Support Vector Machines', 'Minification']","[0.79946065, 0.5936946, 0.556184, 0.54129255, 0.524886, 0.516164, 0.513083, 0.507741, 0.411067]"
+a5021351429,https://doi.org/10.48550/arxiv.1802.01483,"['Transfer of learning', 'Inductive bias', 'Initialization', 'Regularization (linguistics)', 'Transfer Learning', 'Backpropagation Learning', 'Representation Learning', 'Incremental Learning', 'Meta-Learning', 'Baseline (sea)', 'Inductive transfer']","[0.8114644, 0.77584505, 0.76163185, 0.6863382, 0.626273, 0.564308, 0.557075, 0.550814, 0.548927, 0.47783422, 0.42474237]"
+a5021351429,https://doi.org/10.1016/j.imavis.2019.103853,"['Regularization (linguistics)', 'Transfer of learning', 'Transfer Learning', 'Representation (politics)', 'Representation Learning', 'Meta-Learning', 'Deep Learning', 'Computer Vision', 'Inductive bias', 'Deep neural networks', 'Fine-tuning']","[0.7338169, 0.66853863, 0.610622, 0.5705996, 0.549898, 0.526479, 0.516993, 0.502257, 0.4737918, 0.44991845, 0.42410776]"
+a5021351429,https://doi.org/10.1023/b:mach.0000027783.34431.42,"['Resampling', 'Bootstrap aggregating', 'Prediction Accuracy', 'Robust Estimation', 'Structure Learning', 'Forecasting', 'Inference Algorithms', 'Variance reduction']","[0.73112756, 0.6350198, 0.557259, 0.527587, 0.52283, 0.515945, 0.514169, 0.4952871]"
+a5021351429,https://doi.org/10.1145/2959100.2959149,"['Relevance (law)', 'Similarity (geometry)', 'Content-Based Recommendation', 'Context-Aware Recommender Systems', 'Learning to Rank', 'Trust-Aware Recommender Systems', 'Relevance Feedback', 'Benchmark (surveying)']","[0.76389545, 0.6071649, 0.582705, 0.563777, 0.550508, 0.544669, 0.533818, 0.5267669]"
+a5021351429,https://doi.org/10.1016/j.patcog.2019.107049,"['Transfer of learning', 'Initialization', 'Regularization (linguistics)', 'Transfer Learning', 'Baseline (sea)', 'Inductive bias', 'Representation Learning', 'Incremental Learning', 'Meta-Learning', 'Semi-Supervised Learning', 'Labeled data']","[0.8040937, 0.7765306, 0.75334346, 0.611555, 0.6075129, 0.5410731, 0.537286, 0.529336, 0.526977, 0.510781, 0.42732367]"
+a5021351429,https://doi.org/10.1162/neco.1997.9.5.1093,"['Smoothness', 'Gaussian noise', 'Function Approximation', 'Heat kernel']","[0.73665226, 0.5181459, 0.484341, 0.46670341]"
+a5021351429,https://doi.org/10.1007/978-1-4471-1599-1_27,"['Elastic net regularization', 'Lasso (programming language)', 'Shrinkage', 'Function Approximation', 'Kernel (algebra)']","[0.77499527, 0.74571586, 0.6670064, 0.513901, 0.4813381]"
+a5021351429,https://doi.org/10.1007/s10994-009-5150-6,"['Tree kernel', 'Kernel (algebra)', 'Support Vector Machines', 'Convexity', 'Ensemble Learning', 'Kernel Methods', 'Dictionary Learning', 'Incremental Learning', 'Multiple kernel learning']","[0.795492, 0.71812415, 0.616051, 0.5940438, 0.589549, 0.573796, 0.53241, 0.523998, 0.43826437]"
+a5021351429,https://doi.org/10.1007/s11222-010-9191-2,"['Network Inference', 'Psychometric Models', 'Gene Set Enrichment Analysis']","[0.53565, 0.506871, 0.502491]"
+a5021351429,https://doi.org/10.1613/jair.5013,"['Overfitting', 'Knowledge Graph Embedding', 'Link (geometry)', 'Network Embedding', 'Topic Modeling', 'Regularization (linguistics)', 'Relational Data Modeling', 'Signal Processing on Graphs', 'Simplicity', 'Base (topology)']","[0.7832717, 0.650182, 0.6080846, 0.57612, 0.54572, 0.54044473, 0.53633, 0.520699, 0.5004356, 0.42501107]"
+a5021351429,https://doi.org/10.7551/mitpress/1120.003.0076,"['Semi-Supervised Learning', 'Unsupervised Learning', 'Positive and Unlabeled Data', 'Meta-Learning']","[0.608141, 0.559215, 0.552957, 0.545182]"
+a5021351429,https://doi.org/10.1371/journal.pone.0021268,"['Biochip', 'Toxicogenomics', 'Microfluidic Devices', 'Bioprinting']","[0.83883953, 0.655901, 0.508293, 0.501351]"
+a5021351429,https://doi.org/10.1145/1390156.1390287,"['Tree kernel', 'Kernel (algebra)', 'Multiple kernel learning', 'Support Vector Machines', 'Ensemble Learning', 'Kernel Methods', 'Convexity', 'Spectral Clustering', 'Dictionary Learning', 'Online machine learning', 'String kernel']","[0.82494795, 0.7481746, 0.64145106, 0.606885, 0.598427, 0.57097, 0.54454076, 0.534421, 0.522528, 0.45779425, 0.4145514]"
+a5021351429,https://doi.org/10.1007/0-387-24555-3_5,"['Cross-validation', 'Non-negative Matrix Factorization']","[0.6178957, 0.461353]"
+a5021351429,https://doi.org/10.7551/mitpress/6173.003.0013,"['Backpropagation Learning', 'Recurrent Neural Networks', 'Function Approximation', 'Pattern Classification', 'Deep Learning']","[0.581388, 0.572013, 0.570984, 0.570391, 0.570214]"
+a5021351429,https://doi.org/10.1109/wacv48630.2021.00010,"['Occupancy grid mapping', 'Homography', 'Trajectory Prediction', 'Urban Driving', 'Pinhole camera', 'Object Detection', 'Interpretability', 'Smart camera', 'Representation (politics)']","[0.7538756, 0.7099224, 0.522884, 0.518353, 0.51013047, 0.503791, 0.46964854, 0.46784505, 0.44279957]"
+a5021351429,https://doi.org/10.1109/21.370200,"['Backpropagation Learning', 'Backpropagation', 'Noisy data']","[0.552589, 0.51268566, 0.4175672]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2019.02.046,"['Structural health monitoring', 'Piezoelectric Impedance-Based Health Monitoring', 'Piezoelectric Sensors', 'Matrix (chemical analysis)', 'Structural Impedance Sensors', 'Composite Structures', 'Concrete Sensors', 'Section (typography)']","[0.7457244, 0.610937, 0.59564, 0.5236673, 0.519499, 0.515984, 0.507542, 0.45395747]"
+a5009983613,https://doi.org/10.1080/15376494.2024.2342028,"['Position (finance)', 'Piezoelectric Impedance-Based Health Monitoring', 'Piezoelectric Sensors', 'Composite Plates']","[0.7020581, 0.562473, 0.543485, 0.512702]"
+a5009983613,https://doi.org/10.1016/s0266-3538(98)00096-7,"['Micromechanics', 'Waviness', 'Plain weave', 'Woven fabric', 'Damage Modeling', 'Textile Composites', 'Wrinkling Analysis', 'Stability Analysis', 'Finite Element Analysis', 'Elasticity (physics)']","[0.90311927, 0.88938415, 0.67219007, 0.61789435, 0.54065, 0.535815, 0.516809, 0.516185, 0.515077, 0.42716473]"
+a5009983613,https://doi.org/10.1016/s0263-8223(03)00131-4,"['cardboard', 'Corrugated fiberboard', 'Homogenization (climate)', 'Corrugated Board', 'Material Modeling']","[0.96055686, 0.9377482, 0.67583644, 0.556862, 0.519642]"
+a5009983613,https://doi.org/10.1016/j.compscitech.2005.09.005,"['Sandwich panel', 'Shearing (physics)', 'Material Modeling']","[0.6029192, 0.59662247, 0.485789]"
+a5009983613,https://doi.org/10.1016/j.ijmachtools.2014.06.004,['Machining'],[0.529978]
+a5009983613,https://doi.org/10.1016/j.compscitech.2007.10.058,"['cardboard', 'Corrugated fiberboard', 'Corrugated Board']","[0.9701401, 0.8537148, 0.528575]"
+a5009983613,https://doi.org/10.1016/j.indcrop.2011.02.012,"['Thermal stability', 'Microwave Absorption', 'Speed of sound']","[0.52090734, 0.485532, 0.43377954]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2017.09.096,"['Fabric Testing', 'Fiber-Reinforced Composites', 'Fiber Surface Modification', 'Textile Composites', 'Residual strength', 'Transversal (combinatorics)']","[0.52185, 0.518722, 0.512422, 0.501203, 0.4594984, 0.41260505]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2020.113424,"['Acoustic emission', 'Digital image correlation', 'Damage Detection', 'Composite Structures', 'Defect Detection', 'Instrumentation (computer programming)']","[0.89401937, 0.77775663, 0.54578, 0.536172, 0.500965, 0.47170377]"
+a5009983613,https://doi.org/10.1016/s0266-3538(97)00105-x,"['Plain weave', 'Woven fabric', 'Textile Composites', 'Wrinkling Analysis', 'Cohesive Zone Models']","[0.81091946, 0.7734019, 0.562178, 0.534954, 0.531283]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2009.08.012,"['Image stitching', 'Damage tolerance', 'Impact resistance', 'Delamination (geology)', 'Impact Simulation', 'Structural Performance', 'Damage Modeling', 'Impact energy', 'Penetration (warfare)']","[0.90848064, 0.6717637, 0.56397796, 0.5573115, 0.536475, 0.515644, 0.513171, 0.48155525, 0.44151592]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2017.06.041,"['Image stitching', 'Digital image correlation', 'Delamination (geology)', 'Fiber-Reinforced Composites', 'Transfer molding', 'Adhesive Joints', 'Textile Composites', 'Molding (decorative)']","[0.7806021, 0.66763496, 0.6166268, 0.578984, 0.5439013, 0.543869, 0.532785, 0.41837734]"
+a5009983613,https://doi.org/10.1080/19475411.2020.1830196,"['Piezoelectric Impedance-Based Health Monitoring', 'Structural health monitoring', 'Structural Impedance Sensors', 'Piezoelectric Sensors', 'Composite Structures', 'Structural Damage Detection', 'Matrix (chemical analysis)']","[0.60046, 0.5773597, 0.549532, 0.526273, 0.521687, 0.519088, 0.45647225]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2021.113590,"['Polyetherimide', 'Fiber Surface Modification', 'Fiber-Reinforced Composites', 'Structural Performance', 'Textile Composites']","[0.72932816, 0.55907, 0.556639, 0.507552, 0.503748]"
+a5009983613,https://doi.org/10.1177/0021998317726588,"['Nano-composites', 'Conducting Polymers', 'Nanofibers', 'Carbon Nanotubes', 'Carbon fibers']","[0.552893, 0.548108, 0.538193, 0.500732, 0.4665515]"
+a5009983613,https://doi.org/10.20944/preprints202402.0009.v1,"['Structural Health Monitoring', 'Vibration-based Damage Identification', 'Structural Damage Detection', 'Matrix (chemical analysis)', 'Nonlinear Dynamics']","[0.573133, 0.540148, 0.52838, 0.51230824, 0.509861]"
+a5009983613,https://doi.org/10.3390/vibration7010015,"['Structural health monitoring', 'Nonlinear Ultrasonic Techniques', 'Vibration-based Damage Identification', 'Composite Structures', 'Structural Damage Detection', 'Piezoelectric Impedance-Based Health Monitoring', 'Matrix (chemical analysis)']","[0.8080258, 0.543305, 0.54031, 0.532272, 0.529074, 0.521355, 0.4923917]"
+a5009983613,https://doi.org/10.1016/j.compscitech.2007.10.048,"['Finite Element Modelling', 'Fiber-Reinforced Composites', 'Fiber-Reinforced Polymer Composites', 'Damage Modeling', 'Composite Columns']","[0.541113, 0.528475, 0.517144, 0.516362, 0.513027]"
+a5009983613,https://doi.org/10.1177/0021998310385592,"['Orthotropic material', 'Transverse isotropy', 'Homogenization (climate)', 'Interlock', 'Fiber-Reinforced Composites', 'Representative elementary volume', 'Wrinkling Analysis', 'Finite Element Analysis', 'Fabric Testing', 'Wicking Mechanisms']","[0.76505387, 0.6508403, 0.5747778, 0.5447482, 0.539218, 0.5307035, 0.522952, 0.519604, 0.517874, 0.500476]"
+a5009983613,https://doi.org/10.1016/j.tca.2022.179211,"['Intumescent', 'Ammonium polyphosphate', 'Thermogravimetric analysis', 'Biocomposite', 'Graphene-based Flame Retardants', 'Textile Flame Retardancy', 'Charring', 'Thermogravimetry', 'Boric acid']","[0.96394515, 0.9514786, 0.7888824, 0.56479037, 0.532543, 0.53089, 0.4860733, 0.44806185, 0.4338388]"
+a5009983613,https://doi.org/10.1016/s0266-3538(01)00147-6,"['Fiber-Reinforced Composites', 'Fiber Properties', 'Fiber Surface Modification', 'Fabric Testing', 'Damage Modeling', 'Degradation (telecommunications)']","[0.543785, 0.53969, 0.522063, 0.515153, 0.506112, 0.43875137]"
+a5009983613,https://doi.org/10.1016/j.compstruct.2008.01.001,"['Paperboard', 'cardboard', 'Corrugated fiberboard', 'Corrugated Board', 'Paper Mechanics', 'Carton']","[0.99207234, 0.92356026, 0.8659564, 0.532536, 0.518245, 0.49828792]"
+a5009983613,https://doi.org/10.1016/j.compositesb.2011.05.022,"['Thermal stability', 'Composites', 'Nano-composites', 'Volume fraction', 'Characterization (materials science)']","[0.5897683, 0.531844, 0.521088, 0.45768797, 0.45323727]"
+a5009983613,https://doi.org/10.1016/j.compositesb.2014.07.006,"['Brittleness', 'Image stitching', 'Structural Performance', 'Damage tolerance']","[0.62184143, 0.5770341, 0.519404, 0.4743073]"
+,10.1109/embc.2016.7591044,,
+,10.1007/bf00296872,,
+,10.1038/nature10296,,
+,10.1073/pnas.0906232107,,
+,10.1016/j.enpol.2012.04.050,,
+,10.1097/ta.0b013e31816493ad,,
+,10.1016/j.biochi.2018.05.013,,
+,10.1007/bf03249200,,
+,10.1111/j.1432-1033.1995.tb20279.x,,
+,10.1098/rsta.2011.0224,,
+,10.3201/eid1711.110170,,
+,10.48550/arxiv.2005.06224,,
+,10.1145/2317956.2318071,,
+,10.1145/2536811,,
+,10.1038/s41562-020-00987-5,,
+,10.1145/1935701.1935704,,
+,10.1145/2702123.2702515,,
+,10.1162/comj_a_00255,,
+,10.1109/ipta.2010.5586809,,
+,10.1145/2806416.2806481,,
+,10.1109/tpami.2011.193,,
+,10.1093/cercor/bhu114,,
+,10.1007/978-3-662-65093-6_300783,,
+,10.3390/nu12103170,,
+,10.3390/app13010007,,
+,10.1007/978-3-319-10936-7_19,,
+,10.1007/978-3-642-54013-4_3,,
+,10.3389/fdigh.2015.00007,,
+,10.3917/heg.122.0179a,,
+,10.1109/infcomw.2011.5928947,,
+,10.1017/s0269888902000486,,
+,10.1609/aimag.v29i4.2201,,
+,10.1007/978-3-642-24873-3_3,,
+,10.1109/tbme.2008.915728,,
+,10.1023/a:1013298408777,,
+,10.1016/j.compfluid.2007.03.019,,
+,10.1137/16m1060066,,
+,10.48550/arxiv.2212.10259,,
+,10.1007/s10589-023-00511-1,,
+,10.1007/978-3-030-73249-3_2,,
+,10.1063/1.3685707,,
+,10.1029/2021ja030112,,
+,10.1007/s00586-011-1722-9,,
